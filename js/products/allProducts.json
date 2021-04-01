@@ -1,0 +1,2058 @@
+{
+    "items": [
+        {
+            "sys": { "id": "1" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Copa", 
+                "title": "Copa 20.1 red",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czerwone",
+                "sizeMan" : [39,40,41,44,45,46],
+                "sizeWoman" : [33,36,37,38,39],
+                "sizeChild" : [30,31,36,37,38],
+                "price": 900,
+                "newPrice": 750.99,
+                "childPrice": 400,
+                "childNewPrice": 330.50,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-copa-20-1-sg-czerwone/adidas-copa-20-1-sg_1.png" } ,
+                        "file2": { "url": "../images/shoes/adidas/adidas-copa-20-1-sg-czerwone/adidas-copa-20-1-sg_2.png" },
+                        "file3": { "url": "../images/shoes/adidas/adidas-copa-20-1-sg-czerwone/adidas-copa-20-1-sg_3.png" },
+                        "file4": { "url": "../images/shoes/adidas/adidas-copa-20-1-sg-czerwone/adidas-copa-20-1-sg_4.png" }, 
+                        "file5": { "url": "../images/shoes/adidas/adidas-copa-20-1-sg-czerwone/adidas-copa-20-1-sg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "2" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Copa", 
+                "title": "Copa 20.1 blue",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "niebieskie",
+                "sizeMan" : [39,40,41,42,43,46],
+                "sizeWoman" : [33,36,37,38,39],
+                "sizeChild" : [29,30,31,35,36,37],
+                "price": 520.12,
+                "newPrice": 450.99,
+                "childPrice": 300,
+                "childNewPrice": 280.50,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-copa-20-1-sg-niebieskie/adidas-copa-20-1-sg_1.png" } ,
+                        "file2": { "url": "../images/shoes/adidas/adidas-copa-20-1-sg-niebieskie/adidas-copa-20-1-sg_2.png" },
+                        "file3": { "url": "../images/shoes/adidas/adidas-copa-20-1-sg-niebieskie/adidas-copa-20-1-sg_3.png" },
+                        "file4": { "url": "../images/shoes/adidas/adidas-copa-20-1-sg-niebieskie/adidas-copa-20-1-sg_4.png" }, 
+                        "file5": { "url": "../images/shoes/adidas/adidas-copa-20-1-sg-niebieskie/adidas-copa-20-1-sg_5.png" } 
+                    } 
+                }
+            }
+        },
+         {
+            "sys": { "id": "3" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Copa", 
+                "title": "Copa 20.1 orange",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "pomarańczowe",
+                "sizeMan" : [40,41,42,43,44,45,46],
+                "sizeWoman" : [35,36,37,38,39],
+                "sizeChild" : [33,34,35,36,37,38],
+                "price": 920.12,
+                "newPrice": 750,
+                "childPrice": 200,
+                "childNewPrice": 150.50,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-copa-20-1-sg-pomaranczowe/adidas-copa-20-1-sg_1.png" } ,
+                        "file2": { "url": "../images/shoes/adidas/adidas-copa-20-1-sg-pomaranczowe/adidas-copa-20-1-sg_2.png" },
+                        "file3": { "url": "../images/shoes/adidas/adidas-copa-20-1-sg-pomaranczowe/adidas-copa-20-1-sg_3.png" },
+                        "file4": { "url": "../images/shoes/adidas/adidas-copa-20-1-sg-pomaranczowe/adidas-copa-20-1-sg_4.png" }, 
+                        "file5": { "url": "../images/shoes/adidas/adidas-copa-20-1-sg-pomaranczowe/adidas-copa-20-1-sg_5.png" } 
+                    } 
+                }
+            }
+        },
+         {
+            "sys": { "id": "4" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Copa", 
+                "title": "Copa sense 3 II",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czarne",
+                "sizeMan" : [39,40,43,44,45,46],
+                "sizeWoman" : [33,34,35,38,39],
+                "sizeChild" : [29,30,31],
+                "price": 820.12,
+                "newPrice": 780.99,
+                "childPrice": 300,
+                "childNewPrice": 280.50,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-copa-sense-3-ll-fg/adidas-copa-sense-3-ll-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-copa-sense-3-ll-fg/adidas-copa-sense-3-ll-fg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-copa-sense-3-ll-fg/adidas-copa-sense-3-ll-fg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-copa-sense-3-ll-fg/adidas-copa-sense-3-ll-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-copa-sense-3-ll-fg/adidas-copa-sense-3-ll-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "5" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Copa", 
+                "title": "Copa sense 4 black",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czarne",
+                "sizeMan" : [39,40,41,42,43,44,45,46],
+                "sizeWoman" : [36,37,38,39],
+                "sizeChild" : [32,33,34,35,36,37,38],
+                "price": 620.12,
+                "newPrice": 550.99,
+                "childPrice": 200,
+                "childNewPrice": 180,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-copa-sense-4-fxg/adidas-copa-sense-4-fxg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-copa-sense-4-fxg/adidas-copa-sense-4-fxg_1.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-copa-sense-4-fxg/adidas-copa-sense-4-fxg_1.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-copa-sense-4-fxg/adidas-copa-sense-4-fxg_1.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-copa-sense-4-fxg/adidas-copa-sense-4-fxg_1.png" } 
+                    } 
+                }
+            }
+        },
+         {
+            "sys": { "id": "6" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Copa", 
+                "title": "Copa sense 4 gray",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "szare",
+                "sizeMan" : [42,43,44,45,46],
+                "sizeWoman" : [33,34,37,38,39],
+                "sizeChild" : [29,30,31,32,33,34,35,38],
+                "price": 720,
+                "newPrice": 650.99,
+                "childPrice": 300,
+                "childNewPrice": 280.50,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-copa-sense-fg-szare/adidas-copa-sense-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-copa-sense-fg-szare/adidas-copa-sense-fg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-copa-sense-fg-szare/adidas-copa-sense-fg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-copa-sense-fg-szare/adidas-copa-sense-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-copa-sense-fg-szare/adidas-copa-sense-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+         {
+            "sys": { "id": "7" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Nemeziz", 
+                "title": "Nemeziz 1 white",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "białe",
+                "sizeMan" : [39,41,42,43,44,45,46],
+                "sizeWoman" : [33,36,37,38,39],
+                "sizeChild" : [29,33,34,35,36,37,38],
+                "price": 1020,
+                "newPrice": 950.99,
+                "childPrice": 500,
+                "childNewPrice": 380.50,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-nemeziz-1-fg-biale/adidas-nemeziz-1-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-nemeziz-1-fg-biale/adidas-nemeziz-1-fg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-nemeziz-1-fg-biale/adidas-nemeziz-1-fg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-nemeziz-1-fg-biale/adidas-nemeziz-1-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-nemeziz-1-fg-biale/adidas-nemeziz-1-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "8" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Nemeziz", 
+                "title": "Nemeziz 1 violet",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "fioletowe",
+                "sizeMan" : [39,42,43,44,45,46],
+                "sizeWoman" : [33,34,37,38,39],
+                "sizeChild" : [29,30,33,34,35,36,37,38],
+                "price": 720,
+                "newPrice": 600,
+                "childPrice": 350,
+                "childNewPrice": 280.50,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-nemeziz-1-fg-fioletowe/adidas-nemeziz-1-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-nemeziz-1-fg-fioletowe/adidas-nemeziz-1-fg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-nemeziz-1-fg-fioletowe/adidas-nemeziz-1-fg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-nemeziz-1-fg-fioletowe/adidas-nemeziz-1-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-nemeziz-1-fg-fioletowe/adidas-nemeziz-1-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "9" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Nemeziz", 
+                "title": "Nemeziz 1 blue",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "niebieskie",
+                "sizeMan" : [39,40,45,46],
+                "sizeWoman" : [33,38,39],
+                "sizeChild" : [29,37,38],
+                "price": 520,
+                "newPrice": 450.99,
+                "childPrice": 150,
+                "childNewPrice": 120,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-nemeziz-1-sg-niebieskie/adidas-nemeziz-1-sg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-nemeziz-1-sg-niebieskie/adidas-nemeziz-1-sg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-nemeziz-1-sg-niebieskie/adidas-nemeziz-1-sg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-nemeziz-1-sg-niebieskie/adidas-nemeziz-1-sg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-nemeziz-1-sg-niebieskie/adidas-nemeziz-1-sg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "10" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Nemeziz", 
+                "title": "Nemeziz 19.3 white",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "białe",
+                "sizeMan" : [39,40,41,42,43,46],
+                "sizeWoman" : [35,36,37,38,39],
+                "sizeChild" : [29,30,33,34,35,36,37,38],
+                "price": 620,
+                "newPrice": 450.99,
+                "childPrice": 280,
+                "childNewPrice": 230.50,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-nemeziz-19-3-fg-biale/adidas-nemeziz-19-3-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-nemeziz-19-3-fg-biale/adidas-nemeziz-19-3-fg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-nemeziz-19-3-fg-biale/adidas-nemeziz-19-3-fg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-nemeziz-19-3-fg-biale/adidas-nemeziz-19-3-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-nemeziz-19-3-fg-biale/adidas-nemeziz-19-3-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+         {
+            "sys": { "id": "11" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Nemeziz", 
+                "title": "Nemeziz 19.3 pink",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "różowe",
+                "sizeMan" : [39,40,41,42,43,44,45,46],
+                "sizeWoman" : [33,34,35,36,37,38,39],
+                "sizeChild" : [29,30,31,32,33,34,35,36,37,38],
+                "price": 720,
+                "newPrice": 600,
+                "childPrice": 300,
+                "childNewPrice": 280.50,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-nemeziz-19-3-fg-rozowe/adidas-nemeziz-19-3-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-nemeziz-19-3-fg-rozowe/adidas-nemeziz-19-3-fg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-nemeziz-19-3-fg-rozowe/adidas-nemeziz-19-3-fg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-nemeziz-19-3-fg-rozowe/adidas-nemeziz-19-3-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-nemeziz-19-3-fg-rozowe/adidas-nemeziz-19-3-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "12" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Nemeziz", 
+                "title": "Nemeziz 19.3 II orange",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "pomarańczowe",
+                "sizeMan" : [39,43,44,45,46],
+                "sizeWoman" : [33,35,36,38],
+                "sizeChild" : [29,31,32,34,35,36,37,38],
+                "price": 520.12,
+                "newPrice": 450.99,
+                "childPrice": 290,
+                "childNewPrice": 260,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-nemeziz-19-3-ll-fg-pomaranczowe/adidas-nemeziz-19-3-ll-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-nemeziz-19-3-ll-fg-pomaranczowe/adidas-nemeziz-19-3-ll-fg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-nemeziz-19-3-ll-fg-pomaranczowe/adidas-nemeziz-19-3-ll-fg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-nemeziz-19-3-ll-fg-pomaranczowe/adidas-nemeziz-19-3-ll-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-nemeziz-19-3-ll-fg-pomaranczowe/adidas-nemeziz-19-3-ll-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "13" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Nemeziz", 
+                "title": "Nemeziz 19.1 messi",
+                "sex": ["Dzieci"],
+                "color": "niebieskie",
+                "sizeMan" : [39,40,41,44,45,46],
+                "sizeWoman" : [33,34,35,38,39],
+                "sizeChild" : [34,35,36,37,38],
+                "price": 520,
+                "newPrice": 450,
+                "childPrice": 190,
+                "childNewPrice": 170,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-nemeziz-messi-19-1-fg/adidas-nemeziz-messi-19-1-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-nemeziz-messi-19-1-fg/adidas-nemeziz-messi-19-1-fg_1.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-nemeziz-messi-19-1-fg/adidas-nemeziz-messi-19-1-fg_1.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-nemeziz-messi-19-1-fg/adidas-nemeziz-messi-19-1-fg_1.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-nemeziz-messi-19-1-fg/adidas-nemeziz-messi-19-1-fg_1.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "14" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Predator", 
+                "title": "Predator 20.2 white",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "białe",
+                "sizeMan" : [39,40,41,45,46],
+                "sizeWoman" : [33,36,37,38,39],
+                "sizeChild" : [29,33,34,35,36,37,38],
+                "price": 700,
+                "newPrice": 590,
+                "childPrice": 280,
+                "childNewPrice": 220,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-predator-20-2-fg-białe/adidas-predator-20-2-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-predator-20-2-fg-białe/adidas-predator-20-2-fg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-predator-20-2-fg-białe/adidas-predator-20-2-fg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-predator-20-2-fg-białe/adidas-predator-20-2-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-predator-20-2-fg-białe/adidas-predator-20-2-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+          {
+            "sys": { "id": "15" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Predator", 
+                "title": "Predator freak 1l",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czarne",
+                "sizeMan" : [39,40,41,44,45,46],
+                "sizeWoman" : [33,34,35,38,39],
+                "sizeChild" : [29,30,31,35,36,37,38],
+                "price": 620.12,
+                "newPrice": 450.99,
+                "childPrice": 290,
+                "childNewPrice": 200,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-predator-freak-1-l-fg/adidas-predator-freak-1-l-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-predator-freak-1-l-fg/adidas-predator-freak-1-l-fg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-predator-freak-1-l-fg/adidas-predator-freak-1-l-fg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-predator-freak-1-l-fg/adidas-predator-freak-1-l-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-predator-freak-1-l-fg/adidas-predator-freak-1-l-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "16" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Predator", 
+                "title": "Predator freak sg",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "niebieskie",
+                "sizeMan" : [39,40,44,45,46],
+                "sizeWoman" : [33,34,37,38,39],
+                "sizeChild" : [29,30,34,35,36,37,38],
+                "price": 620.12,
+                "newPrice": 540.99,
+                "childPrice": 220,
+                "childNewPrice": 180.50,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-predator-freak-sg/adidas-predator-freak-sg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-predator-freak-sg/adidas-predator-freak-sg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-predator-freak-sg/adidas-predator-freak-sg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-predator-freak-sg/adidas-predator-freak-sg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-predator-freak-sg/adidas-predator-freak-sg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "17" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Predator", 
+                "title": "Predator mutator 20.1 black",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czarne",
+                "sizeMan" : [43,44,45,46],
+                "sizeWoman" : [33,37,38,39],
+                "sizeChild" : [29,32,33,34,35,38],
+                "price": 1200,
+                "newPrice": 950,
+                "childPrice": 500,
+                "childNewPrice": 380,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-fg-czarne/adidas-predator-mutator-20-1-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-fg-czarne/adidas-predator-mutator-20-1-fg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-fg-czarne/adidas-predator-mutator-20-1-fg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-fg-czarne/adidas-predator-mutator-20-1-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-fg-czarne/adidas-predator-mutator-20-1-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "18" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Predator", 
+                "title": "Predator mutator 20.1 green",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "zielone",
+                "sizeMan" : [39,40,41,45,46],
+                "sizeWoman" : [33,34,37,38,39],
+                "sizeChild" : [29,33,34,35,36,37,38],
+                "price": 620,
+                "newPrice": 600,
+                "childPrice": 250,
+                "childNewPrice": 210,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg_czrano_zielone/adidas-predator-mutator-20-1-sg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg_czrano_zielone/adidas-predator-mutator-20-1-sg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg_czrano_zielone/adidas-predator-mutator-20-1-sg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg_czrano_zielone/adidas-predator-mutator-20-1-sg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg_czrano_zielone/adidas-predator-mutator-20-1-sg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "19" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Predator", 
+                "title": "Predator mutator 20.1 white",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "białe",
+                "sizeMan" : [39,40,41,42,43,44,45,46],
+                "sizeWoman" : [33,34,35,36,37,38,39],
+                "sizeChild" : [29,30,31,32,33,34,35,36,37,38],
+                "price": 1020,
+                "newPrice": 850,
+                "childPrice": 400,
+                "childNewPrice": 300,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg-biale/adidas-predator-mutator-20-1-sg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg-biale/adidas-predator-mutator-20-1-sg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg-biale/adidas-predator-mutator-20-1-sg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg-biale/adidas-predator-mutator-20-1-sg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg-biale/adidas-predator-mutator-20-1-sg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "20" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Predator", 
+                "title": "Predator mutator 20.1 white/red",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "białe",
+                "sizeMan" : [39,40,41,42,43],
+                "sizeWoman" : [33,34,37,38,39],
+                "sizeChild" : [29,33,34,35,36,37,38],
+                "price": 720,
+                "newPrice": 610,
+                "childPrice": 310,
+                "childNewPrice": 250,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg-biale_czerwone/adidas-predator-mutator-20-1-sg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg-biale_czerwone/adidas-predator-mutator-20-1-sgg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg-biale_czerwone/adidas-predator-mutator-20-1-sg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg-biale_czerwone/adidas-predator-mutator-20-1-sg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg-biale_czerwone/adidas-predator-mutator-20-1-sg_5.png" } 
+                    } 
+                }
+            }
+        },
+         {
+            "sys": { "id": "21" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Predator", 
+                "title": "Predator mutator 20.1 white/black",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "białe",
+                "sizeMan" : [39,40,44,45,46],
+                "sizeWoman" : [33,34,35,38,39],
+                "sizeChild" : [29,30,34,35,36,37,38],
+                "price": 420,
+                "newPrice": 350,
+                "childPrice": 200,
+                "childNewPrice": 179.99,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg-bialo_czarne/adidas-predator-mutator-20-1-sg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg-bialo_czarne/adidas-predator-mutator-20-1-sg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg-bialo_czarne/adidas-predator-mutator-20-1-sg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg-bialo_czarne/adidas-predator-mutator-20-1-sg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg-bialo_czarne/adidas-predator-mutator-20-1-sg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "22" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Predator", 
+                "title": "Predator mutator 20.1 black/red",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czarne",
+                "sizeMan" : [39,40,41,42],
+                "sizeWoman" : [35,36,37,38,39],
+                "sizeChild" : [33,34],
+                "price": 620,
+                "newPrice": 550,
+                "childPrice": 280,
+                "childNewPrice": 230,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg-czarno_czerwone/adidas-predator-mutator-20-1-sg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg-czarno_czerwone/adidas-predator-mutator-20-1-sg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg-czarno_czerwone/adidas-predator-mutator-20-1-sg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg-czarno_czerwone/adidas-predator-mutator-20-1-sg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-1-sg-czarno_czerwone/adidas-predator-mutator-20-1-sg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "23" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Predator", 
+                "title": "Predator mutator 20 yellowgreen",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "zielone",
+                "sizeMan" : [41,42,45,46],
+                "sizeWoman" : [33,34,36,37,39],
+                "sizeChild" : [31,32,37,38],
+                "price": 720,
+                "newPrice": 650,
+                "childPrice": 270,
+                "childNewPrice": 250,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-sg/adidas-predator-mutator-20-sg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-sg/adidas-predator-mutator-20-sg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-sg/adidas-predator-mutator-20-sg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-sg/adidas-predator-mutator-20-sg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-predator-mutator-20-sg/adidas-predator-mutator-20-sg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "24" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "WorldCup", 
+                "title": "World Cup black",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czarne",
+                "sizeMan" : [39,40,41,45,46],
+                "sizeWoman" : [33,34,35,39],
+                "sizeChild" : [29,30,35,36,37,38],
+                "price": 620,
+                "newPrice": 530,
+                "childPrice": 250,
+                "childNewPrice": 200,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-world-cup/adidas-world-cup_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-world-cup/adidas-world-cup_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-world-cup/adidas-world-cup_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-world-cup/adidas-world-cup_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-world-cup/adidas-world-cup_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "25" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "X", 
+                "title": "Adidas X Ghosted yellow",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "żółte",
+                "sizeMan" : [44,45,46],
+                "sizeWoman" : [33,38,39],
+                "sizeChild" : [29,30,34,35,36,37,38],
+                "price": 660,
+                "newPrice": 590,
+                "childPrice": 240,
+                "childNewPrice": 209,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-x-ghosted-1-fg--zolte/adidas-x-ghosted-1-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-x-ghosted-1-fg--zolte/adidas-x-ghosted-1-fg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-x-ghosted-1-fg--zolte/adidas-x-ghosted-1-fg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-x-ghosted-1-fg--zolte/adidas-x-ghosted-1-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-x-ghosted-1-fg--zolte/adidas-x-ghosted-1-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "26" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "X", 
+                "title": "Adidas X Ghosted green",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "zielone",
+                "sizeMan" : [39,40,46],
+                "sizeWoman" : [39],
+                "sizeChild" : [29,30,35,36,37,38],
+                "price": 620,
+                "newPrice": 580,
+                "childPrice": 240,
+                "childNewPrice": 200,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-x-ghosted-1-fg-zielone/adidas-x-ghosted-1-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-x-ghosted-1-fg-zielone/adidas-x-ghosted-1-fg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-x-ghosted-1-fg-zielone/adidas-x-ghosted-1-fg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-x-ghosted-1-fg-zielone/adidas-x-ghosted-1-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-x-ghosted-1-fg-zielone/adidas-x-ghosted-1-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "27" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "X", 
+                "title": "Adidas X Ghosted white",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "białe",
+                "sizeMan" : [39,40,41,42],
+                "sizeWoman" : [33,37,38,39],
+                "sizeChild" : [34,35,36,37,38],
+                "price": 1120,
+                "newPrice": 999.99,
+                "childPrice": 500,
+                "childNewPrice": 380,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-x-ghosted-ag-biale/adidas-x-ghosted-ag_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-x-ghosted-ag-biale/adidas-x-ghosted-ag_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-x-ghosted-ag-biale/adidas-x-ghosted-ag_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-x-ghosted-ag-biale/adidas-x-ghosted-ag_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-x-ghosted-ag-biale/adidas-x-ghosted-ag_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "28" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "X", 
+                "title": "Adidas X Ghosted gray",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "szare",
+                "sizeMan" : [40,44,45,46],
+                "sizeWoman" : [35,36,37,39],
+                "sizeChild" : [31,35,36,37,38],
+                "price": 820,
+                "newPrice": 750,
+                "childPrice": 320,
+                "childNewPrice": 290,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-x-ghosted-fg-szare/adidas-x-ghosted-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-x-ghosted-fg-szare/adidas-x-ghosted-fg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-x-ghosted-fg-szare/adidas-x-ghosted-fg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-x-ghosted-fg-szare/adidas-x-ghosted-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-x-ghosted-fg-szare/adidas-x-ghosted-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "29" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Predator", 
+                "title": "Adidas Predator 20.2 green",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "zielone",
+                "sizeMan" : [39,40,41,42,46],
+                "sizeWoman" : [33,34,35,39],
+                "sizeChild" : [29,30,31,32,38],
+                "price": 620,
+                "newPrice": 550,
+                "childPrice": 240,
+                "childNewPrice": 210,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/buty-adidas-predator-20-2-fg-eh2932-zielone/buty-adidas-predator-20-2-fg-eh2932_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/buty-adidas-predator-20-2-fg-eh2932-zielone/buty-adidas-predator-20-2-fg-eh2932_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/buty-adidas-predator-20-2-fg-eh2932-zielone/buty-adidas-predator-20-2-fg-eh2932_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/buty-adidas-predator-20-2-fg-eh2932-zielone/buty-adidas-predator-20-2-fg-eh2932_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/buty-adidas-predator-20-2-fg-eh2932-zielone/buty-adidas-predator-20-2-fg-eh2932_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "30" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Tiempo", 
+                "title": "Nike Tiempo legend 8 black",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czarne",
+                "sizeMan" : [39,44,45,46],
+                "sizeWoman" : [33,34,38,39],
+                "sizeChild" : [29,30,34,35,36,37,38],
+                "price": 630,
+                "newPrice": 550,
+                "childPrice": 300,
+                "childNewPrice": 280.50,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/buty-nike-legend-8-elite-fg-at5293-060-czarne-tiempo/buty-nike-legend-8-elite-fg-at5293-060_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/buty-nike-legend-8-elite-fg-at5293-060-czarne-tiempo/buty-nike-legend-8-elite-fg-at5293-060_2.png" },
+                        "file3": { "url":"../images/shoes/nike/buty-nike-legend-8-elite-fg-at5293-060-czarne-tiempo/buty-nike-legend-8-elite-fg-at5293-060_3.png" },
+                        "file4": { "url":"../images/shoes/nike/buty-nike-legend-8-elite-fg-at5293-060-czarne-tiempo/buty-nike-legend-8-elite-fg-at5293-060_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/buty-nike-legend-8-elite-fg-at5293-060-czarne-tiempo/buty-nike-legend-8-elite-fg-at5293-060_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "31" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Tiempo", 
+                "title": "Nike Tiempo legend 8 blue",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "zielone",
+                "sizeMan" : [39,43,44,45,46],
+                "sizeWoman" : [33,37,38,39],
+                "sizeChild" : [29,33,34,35,36,37,38],
+                "price": 650,
+                "newPrice": 600,
+                "childPrice": 300,
+                "childNewPrice": 280,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/buty-nike-legend-8-pro-fg-at6133-104_1-tiempo-niebieskie/buty-nike-legend-8-pro-fg-at6133-104_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/buty-nike-legend-8-pro-fg-at6133-104_1-tiempo-niebieskie/buty-nike-legend-8-pro-fg-at6133-104_2.png" },
+                        "file3": { "url":"../images/shoes/nike/buty-nike-legend-8-pro-fg-at6133-104_1-tiempo-niebieskie/buty-nike-legend-8-pro-fg-at6133-104_3.png" },
+                        "file4": { "url":"../images/shoes/nike/buty-nike-legend-8-pro-fg-at6133-104_1-tiempo-niebieskie/buty-nike-legend-8-pro-fg-at6133-104_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/buty-nike-legend-8-pro-fg-at6133-104_1-tiempo-niebieskie/buty-nike-legend-8-pro-fg-at6133-104_5.png" } 
+                    } 
+                }
+            }
+        },
+         {
+            "sys": { "id": "32" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Phantom", 
+                "title": "Nike Phanton black",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czarne",
+                "sizeMan" : [39,40,43,44,45,46],
+                "sizeWoman" : [33,34,37,38,39],
+                "sizeChild" : [29,30,31,32,35,36],
+                "price": 720,
+                "newPrice": 650,
+                "childPrice": 270,
+                "childNewPrice": 240,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/buty-nike-phantom-gt-elite-df-fg-cw6589-006-czarny-roz/buty-nike-phantom-gt-elite-df-fg-cw6589-006_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/buty-nike-phantom-gt-elite-df-fg-cw6589-006-czarny-roz/buty-nike-phantom-gt-elite-df-fg-cw6589-006_2.png" },
+                        "file3": { "url":"../images/shoes/nike/buty-nike-phantom-gt-elite-df-fg-cw6589-006-czarny-roz/buty-nike-phantom-gt-elite-df-fg-cw6589-006_3.png" },
+                        "file4": { "url":"../images/shoes/nike/buty-nike-phantom-gt-elite-df-fg-cw6589-006-czarny-roz/buty-nike-phantom-gt-elite-df-fg-cw6589-006_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/buty-nike-phantom-gt-elite-df-fg-cw6589-006-czarny-roz/buty-nike-phantom-gt-elite-df-fg-cw6589-006_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "33" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Mercurial", 
+                "title": "Nike Mercurail superfly 7 cr7",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "białe",
+                "sizeMan" : [42,43,44,45,46],
+                "sizeWoman" : [34,38,39],
+                "sizeChild" : [29,30,35,36,37,38],
+                "price": 700,
+                "newPrice": 600,
+                "childPrice": 300,
+                "childNewPrice": 280.50,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/buty-nike-superfly-7-academy-cr7-fg-jr-biale/buty-nike-superfly-7-academy-cr7-fg-jr_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/buty-nike-superfly-7-academy-cr7-fg-jr-biale/buty-nike-superfly-7-academy-cr7-fg-jr_2.png" },
+                        "file3": { "url":"../images/shoes/nike/buty-nike-superfly-7-academy-cr7-fg-jr-biale/buty-nike-superfly-7-academy-cr7-fg-jr_3.png" },
+                        "file4": { "url":"../images/shoes/nike/buty-nike-superfly-7-academy-cr7-fg-jr-biale/buty-nike-superfly-7-academy-cr7-fg-jr_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/buty-nike-superfly-7-academy-cr7-fg-jr-biale/buty-nike-superfly-7-academy-cr7-fg-jr_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "34" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Timepo", 
+                "title": "Nike Tiempo 8 elite black/blue",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czarne",
+                "sizeMan" : [42,43,44,45,46],
+                "sizeWoman" : [36,37,38,39],
+                "sizeChild" : [29,30,36,37,38],
+                "price": 550,
+                "newPrice": 450,
+                "childPrice": 290,
+                "childNewPrice": 230,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-legend-8-elite-fg-czarne-nieb/nike-tiempo-legend-8-elite-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-legend-8-elite-fg-czarne-nieb/nike-tiempo-legend-8-elite-fg_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-legend-8-elite-fg-czarne-nieb/nike-tiempo-legend-8-elite-fg_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-legend-8-elite-fg-czarne-nieb/nike-tiempo-legend-8-elite-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-legend-8-elite-fg-czarne-nieb/nike-tiempo-legend-8-elite-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "35" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Mercurial", 
+                "title": "Nike Mercurial superfly 7 white",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "białe",
+                "sizeMan" : [39,40,41,42,43,44,45,46],
+                "sizeWoman" : [33,34,35,36,37,38,39],
+                "sizeChild" : [29,30,31,32,33,34,35],
+                "price": 720.12,
+                "newPrice": 650.99,
+                "childPrice": 300,
+                "childNewPrice": 280.50,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-mercurial-superfly-7-elite-mds-sg-pro-ac-biale/nike-mercurial-superfly-7-elite-mds-sg-pro-ac_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-mercurial-superfly-7-elite-mds-sg-pro-ac-biale/nike-mercurial-superfly-7-elite-mds-sg-pro-ac_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-mercurial-superfly-7-elite-mds-sg-pro-ac-biale/nike-mercurial-superfly-7-elite-mds-sg-pro-ac_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-mercurial-superfly-7-elite-mds-sg-pro-ac-biale/nike-mercurial-superfly-7-elite-mds-sg-pro-ac_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-mercurial-superfly-7-elite-mds-sg-pro-ac-biale/nike-mercurial-superfly-7-elite-mds-sg-pro-ac_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "36" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Mercurial", 
+                "title": "Nike Mercurial superfly 7 white",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "białe",
+                "sizeMan" : [39,44,45,46],
+                "sizeWoman" : [33,38,39],
+                "sizeChild" : [29,30,35,36,37,38],
+                "price": 520,
+                "newPrice": 350,
+                "childPrice": 300,
+                "childNewPrice": 250,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-mercurial-superfly-7-academy-fg-mg-biale/nike-mercurial-superfly-7-academy-fg-mg_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-mercurial-superfly-7-academy-fg-mg-biale/nike-mercurial-superfly-7-academy-fg-mg_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-mercurial-superfly-7-academy-fg-mg-biale/nike-mercurial-superfly-7-academy-fg-mg_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-mercurial-superfly-7-academy-fg-mg-biale/nike-mercurial-superfly-7-academy-fg-mg_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-mercurial-superfly-7-academy-fg-mg-biale/nike-mercurial-superfly-7-academy-fg-mg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "37" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Mercurial", 
+                "title": "Nike Mercurial superfly 8 elite white",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "białe",
+                "sizeMan" : [39,40,44,45,46],
+                "sizeWoman" : [33,34,38,39],
+                "sizeChild" : [29,30,36,37,38],
+                "price": 1059,
+                "newPrice": 989,
+                "childPrice": 500,
+                "childNewPrice": 459,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-mercurial-superfly-8-elite-mds-fg/nike-mercurial-superfly-8-elite-mds-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-mercurial-superfly-8-elite-mds-fg/nike-mercurial-superfly-8-elite-mds-fg_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-mercurial-superfly-8-elite-mds-fg/nike-mercurial-superfly-8-elite-mds-fg_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-mercurial-superfly-8-elite-mds-fg/nike-mercurial-superfly-8-elite-mds-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-mercurial-superfly-8-elite-mds-fg/nike-mercurial-superfly-8-elite-mds-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "38" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Phantom", 
+                "title": "Nike Phantom academy gt grey",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "szare",
+                "sizeMan" : [39,40,45,46],
+                "sizeWoman" : [33,34,39],
+                "sizeChild" : [29,30,36,37,38],
+                "price": 720.12,
+                "newPrice": 650.99,
+                "childPrice": 300,
+                "childNewPrice": 280.50,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-phantom-gt-academy-df-se-fg-szare/nike-phantom-gt-academy-df-se-fg-mg_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-phantom-gt-academy-df-se-fg-szare/nike-phantom-gt-academy-df-se-fg-mg_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-phantom-gt-academy-df-se-fg-szare/nike-phantom-gt-academy-df-se-fg-mg_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-phantom-gt-academy-df-se-fg-szare/nike-phantom-gt-academy-df-se-fg-mg_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-phantom-gt-academy-df-se-fg-szare/nike-phantom-gt-academy-df-se-fg-mg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "39" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Phantom", 
+                "title": "Nike Phantom elite black/red",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czarne",
+                "sizeMan" : [45,46],
+                "sizeWoman" : [33,38,39],
+                "sizeChild" : [29,30,31,32,33],
+                "price": 760,
+                "newPrice": 650,
+                "childPrice": 320,
+                "childNewPrice": 260,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-phantom-gt-elite-df-fg-czarne-czerw/nike-phantom-gt-elite-df-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-phantom-gt-elite-df-fg-czarne-czerw/nike-phantom-gt-elite-df-fg_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-phantom-gt-elite-df-fg-czarne-czerw/nike-phantom-gt-elite-df-fg_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-phantom-gt-elite-df-fg-czarne-czerw/nike-phantom-gt-elite-df-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-phantom-gt-elite-df-fg-czarne-czerw/nike-phantom-gt-elite-df-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "40" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Phantom", 
+                "title": "Nike Phantom elite black",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czarne",
+                "sizeMan" : [39,44,45,46],
+                "sizeWoman" : [37,38,39],
+                "sizeChild" : [37,38],
+                "price": 700,
+                "newPrice": 620,
+                "childPrice": 330,
+                "childNewPrice": 280,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-phantom-gt-elite-df-fg-czrane/nike-phantom-gt-elite-df-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-phantom-gt-elite-df-fg-czrane/nike-phantom-gt-elite-df-fg_1.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-phantom-gt-elite-df-fg-czrane/nike-phantom-gt-elite-df-fg_1.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-phantom-gt-elite-df-fg-czrane/nike-phantom-gt-elite-df-fg_1.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-phantom-gt-elite-df-fg-czrane/nike-phantom-gt-elite-df-fg_1.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "41" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Phantom", 
+                "title": "Nike Phantom elite blue",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "niebieskie",
+                "sizeMan" : [39,40,41,46],
+                "sizeWoman" : [33,34,35],
+                "sizeChild" : [29,30,31,32,33,38],
+                "price": 1020,
+                "newPrice": 820,
+                "childPrice": 520,
+                "childNewPrice": 399,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-phantom-gt-elite-df-fg-niebieskie/nike-phantom-gt-elite-df-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-phantom-gt-elite-df-fg-niebieskie/nike-phantom-gt-elite-df-fg_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-phantom-gt-elite-df-fg-niebieskie/nike-phantom-gt-elite-df-fg_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-phantom-gt-elite-df-fg-niebieskie/nike-phantom-gt-elite-df-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-phantom-gt-elite-df-fg-niebieskie/nike-phantom-gt-elite-df-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "42" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Phantom", 
+                "title": "Nike Phantom elite white",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "białe",
+                "sizeMan" : [39,40,41,42,46],
+                "sizeWoman" : [33,34,39],
+                "sizeChild" : [29,30,36,37,38],
+                "price": 920,
+                "newPrice": 850,
+                "childPrice": 300,
+                "childNewPrice": 250,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-phantom-gt-elite-fg-biale/nike-phantom-gt-elite-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-phantom-gt-elite-fg-biale/nike-phantom-gt-elite-fg_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-phantom-gt-elite-fg-biale/nike-phantom-gt-elite-fg_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-phantom-gt-elite-fg-biale/nike-phantom-gt-elite-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-phantom-gt-elite-fg-biale/nike-phantom-gt-elite-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "43" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Phantom", 
+                "title": "Nike Phantom VSN2 green",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "zielone",
+                "sizeMan" : [39,40,46],
+                "sizeWoman" : [33,34],
+                "sizeChild" : [36,37,38],
+                "price": 720,
+                "newPrice": 600,
+                "childPrice": 300,
+                "childNewPrice": 250,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-phantom-vsn-2-elite-fg_zielone/nike-phantom-vsn-2-elite-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-phantom-vsn-2-elite-fg_zielone/nike-phantom-vsn-2-elite-fg_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-phantom-vsn-2-elite-fg_zielone/nike-phantom-vsn-2-elite-fg_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-phantom-vsn-2-elite-fg_zielone/nike-phantom-vsn-2-elite-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-phantom-vsn-2-elite-fg_zielone/nike-phantom-vsn-2-elite-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "44" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Premier", 
+                "title": "Nike Premier II black",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czarne",
+                "sizeMan" : [39,40,41,46],
+                "sizeWoman" : [33,34],
+                "sizeChild" : [35,36,37,38],
+                "price": 700,
+                "newPrice": 650,
+                "childPrice": 300,
+                "childNewPrice": 280,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-premier-ii-fg-czarne/nike-premier-ii-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-premier-ii-fg-czarne/nike-premier-ii-fg_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-premier-ii-fg-czarne/nike-premier-ii-fg_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-premier-ii-fg-czarne/nike-premier-ii-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-premier-ii-fg-czarne/nike-premier-ii-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "45" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Premier", 
+                "title": "Nike Premier II red",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czerwone",
+                "sizeMan" : [40,42,43,44,46],
+                "sizeWoman" : [30,31,34,35,36,37],
+                "sizeChild" : [29,30,37,38],
+                "price": 600,
+                "newPrice": 500,
+                "childPrice": 250,
+                "childNewPrice": 200,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-premier-ii-sg-pro-ac-czerwone/nike-premier-ii-sg-pro-ac_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-premier-ii-sg-pro-ac-czerwone/nike-premier-ii-sg-pro-ac_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-premier-ii-sg-pro-ac-czerwone/nike-premier-ii-sg-pro-ac_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-premier-ii-sg-pro-ac-czerwone/nike-premier-ii-sg-pro-ac_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-premier-ii-sg-pro-ac-czerwone/nike-premier-ii-sg-pro-ac_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "46" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Mercurial", 
+                "title": "Nike Mercurial superfly 7 yellow",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "żółte",
+                "sizeMan" : [39,40,41,46],
+                "sizeWoman" : [30,31,32,37],
+                "sizeChild" : [29,30,31,37,38],
+                "price": 990,
+                "newPrice": 880,
+                "childPrice": 350,
+                "childNewPrice": 290,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-superfly-7-academy-fg-mg-zolte/nike-superfly-7-academy-fg-mg_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-superfly-7-academy-fg-mg-zolte/nike-superfly-7-academy-fg-mg_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-superfly-7-academy-fg-mg-zolte/nike-superfly-7-academy-fg-mg_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-superfly-7-academy-fg-mg-zolte/nike-superfly-7-academy-fg-mg_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-superfly-7-academy-fg-mg-zolte/nike-superfly-7-academy-fg-mg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "47" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Mercurial", 
+                "title": "Nike Mercurial superfly 8 black",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czarne",
+                "sizeMan" : [39,40,41],
+                "sizeWoman" : [30,31,32,36,37],
+                "sizeChild" : [29,30,36,37,38],
+                "price": 900,
+                "newPrice": 800,
+                "childPrice": 350,
+                "childNewPrice": 300,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-superfly-8-elite-sg-pro-anti-clog-czarne/nike-superfly-8-elite-sg-pro-anti-clog_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-superfly-8-elite-sg-pro-anti-clog-czarne/nike-superfly-8-elite-sg-pro-anti-clog_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-superfly-8-elite-sg-pro-anti-clog-czarne/nike-superfly-8-elite-sg-pro-anti-clog_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-superfly-8-elite-sg-pro-anti-clog-czarne/nike-superfly-8-elite-sg-pro-anti-clog_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-superfly-8-elite-sg-pro-anti-clog-czarne/nike-superfly-8-elite-sg-pro-anti-clog_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "48" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Mercurial", 
+                "title": "Nike Mercurial superfly 8 pink",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "różowe",
+                "sizeMan" : [39,40,41,42,43,44,45,46],
+                "sizeWoman" : [30,37],
+                "sizeChild" : [29,36,37,38],
+                "price": 1200,
+                "newPrice": 1150,
+                "childPrice": 550,
+                "childNewPrice": 400,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-superfly-8-elite-sg-pro-anti-clog-rozowe/nike-superfly-8-elite-sg-pro-anti-clog_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-superfly-8-elite-sg-pro-anti-clog-rozowe/nike-superfly-8-elite-sg-pro-anti-clog_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-superfly-8-elite-sg-pro-anti-clog-rozowe/nike-superfly-8-elite-sg-pro-anti-clog_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-superfly-8-elite-sg-pro-anti-clog-rozowe/nike-superfly-8-elite-sg-pro-anti-clog_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-superfly-8-elite-sg-pro-anti-clog-rozowe/nike-superfly-8-elite-sg-pro-anti-clog_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "49" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Premier", 
+                "title": "Nike Premier II red",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czerwone",
+                "sizeMan" : [39,40,45,46],
+                "sizeWoman" : [30,31,36,37],
+                "sizeChild" : [29,30,31,36,37,38],
+                "price": 600,
+                "newPrice": 500,
+                "childPrice": 250,
+                "childNewPrice": 200,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-the-premier-ii-fg_bordowe/nike-the-premier-ii-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-the-premier-ii-fg_bordowe/nike-the-premier-ii-fg_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-the-premier-ii-fg_bordowe/nike-the-premier-ii-fg_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-the-premier-ii-fg_bordowe/nike-the-premier-ii-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-the-premier-ii-fg_bordowe/nike-the-premier-ii-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "50" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Premier", 
+                "title": "Nike Premier II white",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "białe",
+                "sizeMan" : [39,40,45,46],
+                "sizeWoman" : [35,36,37],
+                "sizeChild" : [29,34,35,36,37,38],
+                "price": 600,
+                "newPrice": 500,
+                "childPrice": 250,
+                "childNewPrice": 200,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-the-premier-ii-fg-biale/nike-the-premier-ii-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-the-premier-ii-fg-biale/nike-the-premier-ii-fg_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-the-premier-ii-fg-biale/nike-the-premier-ii-fg_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-the-premier-ii-fg-biale/nike-the-premier-ii-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-the-premier-ii-fg-biale/nike-the-premier-ii-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "79" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Premier", 
+                "title": "Nike Premier II green",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "zielone",
+                "sizeMan" : [39,40,41,42,46],
+                "sizeWoman" : [30,31,32,33],
+                "sizeChild" : [29,30,34,35,36,37,38],
+                "price": 600,
+                "newPrice": 500,
+                "childPrice": 250,
+                "childNewPrice": 200,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-the-premier-ii-fg-zielone/nike-the-premier-ii-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-the-premier-ii-fg-zielone/nike-the-premier-ii-fg_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-the-premier-ii-fg-zielone/nike-the-premier-ii-fg_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-the-premier-ii-fg-zielone/nike-the-premier-ii-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-the-premier-ii-fg-zielone/nike-the-premier-ii-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "51" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Premier", 
+                "title": "Nike Premier II black",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czarne",
+                "sizeMan" : [39,40,41,42,46],
+                "sizeWoman" : [30,31,32,33],
+                "sizeChild" : [29,30,34,35,36,37,38],
+                "price": 700,
+                "newPrice": 650,
+                "childPrice": 310,
+                "childNewPrice": 270,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac_czarne-bialyZnak/nike-the-premier-ii-sg-pro-ac_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac_czarne-bialyZnak/nike-the-premier-ii-sg-pro-ac_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac_czarne-bialyZnak/nike-the-premier-ii-sg-pro-ac_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac_czarne-bialyZnak/nike-the-premier-ii-sg-pro-ac_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac_czarne-bialyZnak/nike-the-premier-ii-sg-pro-ac_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "52" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Premier", 
+                "title": "Nike Premier II black",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czarne",
+                "sizeMan" : [39,40,41,45,46],
+                "sizeWoman" : [30,31,32,37],
+                "sizeChild" : [29,30,31],
+                "price": 700,
+                "newPrice": 650,
+                "childPrice": 310,
+                "childNewPrice": 270,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac_czarne-znakPomaranczowy/nike-the-premier-ii-sg-pro-ac_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac_czarne-znakPomaranczowy/nike-the-premier-ii-sg-pro-ac_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac_czarne-znakPomaranczowy/nike-the-premier-ii-sg-pro-ac_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac_czarne-znakPomaranczowy/nike-the-premier-ii-sg-pro-ac_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac_czarne-znakPomaranczowy/nike-the-premier-ii-sg-pro-ac_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "53" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Premier", 
+                "title": "Nike Premier II black",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czarne",
+                "sizeMan" : [44,45,46],
+                "sizeWoman" : [30,36,37],
+                "sizeChild" : [29,30,31,32,33],
+                "price": 700,
+                "newPrice": 650,
+                "childPrice": 310,
+                "childNewPrice": 270,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac_czarny-zoltyZnak/nike-the-premier-ii-sg-pro-ac_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac_czarny-zoltyZnak/nike-the-premier-ii-sg-pro-ac_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac_czarny-zoltyZnak/nike-the-premier-ii-sg-pro-ac_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac_czarny-zoltyZnak/nike-the-premier-ii-sg-pro-ac_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac_czarny-zoltyZnak/nike-the-premier-ii-sg-pro-ac_5.png" } 
+                    } 
+                }
+            }
+        },
+         {
+            "sys": { "id": "54" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Premier", 
+                "title": "Nike Premier II black",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czarne",
+                "sizeMan" : [39,40,41,42],
+                "sizeWoman" : [30],
+                "sizeChild" : [29,30,35],
+                "price": 700,
+                "newPrice": 650,
+                "childPrice": 310,
+                "childNewPrice": 270,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac-czarne-zNiebieksim/nike-the-premier-ii-sg-pro-ac_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac-czarne-zNiebieksim/nike-the-premier-ii-sg-pro-ac_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac-czarne-zNiebieksim/nike-the-premier-ii-sg-pro-ac_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac-czarne-zNiebieksim/nike-the-premier-ii-sg-pro-ac_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac-czarne-zNiebieksim/nike-the-premier-ii-sg-pro-ac_5.png" } 
+                    } 
+                }
+            }
+        },
+         {
+            "sys": { "id": "55" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Premier", 
+                "title": "Nike Premier II blue",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "niebieskie",
+                "sizeMan" : [39,45,46],
+                "sizeWoman" : [30,34,37],
+                "sizeChild" : [29,31,34,35,36,38],
+                "price": 500,
+                "newPrice": 450,
+                "childPrice": 240,
+                "childNewPrice": 210,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac-niebieskie/nike-the-premier-ii-sg-pro-ac_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac-niebieskie/nike-the-premier-ii-sg-pro-ac_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac-niebieskie/nike-the-premier-ii-sg-pro-ac_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac-niebieskie/nike-the-premier-ii-sg-pro-ac_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-the-premier-ii-sg-pro-ac-niebieskie/nike-the-premier-ii-sg-pro-ac_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "56" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Tiempo", 
+                "title": "Nike Tiempo legend 8 white",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "białe",
+                "sizeMan" : [42,44,46],
+                "sizeWoman" : [34,35,36,37],
+                "sizeChild" : [32,33,34,35,38],
+                "price": 1110,
+                "newPrice": 1020,
+                "childPrice": 440,
+                "childNewPrice": 300,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-tiempo-legend-8-elite-fg-biale/nike-tiempo-legend-8-elite-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-tiempo-legend-8-elite-fg-biale/nike-tiempo-legend-8-elite-fg_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-tiempo-legend-8-elite-fg-biale/nike-tiempo-legend-8-elite-fg_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-tiempo-legend-8-elite-fg-biale/nike-tiempo-legend-8-elite-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-tiempo-legend-8-elite-fg-biale/nike-tiempo-legend-8-elite-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "57" },
+            "fields": {
+                "mark": "NewBalance",
+                "model": "Furon", 
+                "title": "New Balance Furon v5 blue",
+                "sex": ["Mężczyźni"],
+                "color": "niebieskie",
+                "sizeMan" : [39,45,46],
+                "sizeWoman" : [33,34,35,36,37],
+                "sizeChild" : [32,33],
+                "price": 810,
+                "newPrice": 720,
+                "childPrice": 400,
+                "childNewPrice": 310,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/newBalance/new-balance-furon-v5-liteshift-fg-niebieskie/new-balance-furon-v5-liteshift-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/newBalance/new-balance-furon-v5-liteshift-fg-niebieskie/new-balance-furon-v5-liteshift-fg_2.png" },
+                        "file3": { "url":"../images/shoes/newBalance/new-balance-furon-v5-liteshift-fg-niebieskie/new-balance-furon-v5-liteshift-fg_3.png" },
+                        "file4": { "url":"../images/shoes/newBalance/new-balance-furon-v5-liteshift-fg-niebieskie/new-balance-furon-v5-liteshift-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/newBalance/new-balance-furon-v5-liteshift-fg-niebieskie/new-balance-furon-v5-liteshift-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "58" },
+            "fields": {
+                "mark": "NewBalance",
+                "model": "Furon", 
+                "title": "New Balance Furon v5 yellow",
+                "sex": ["Mężczyźni"],
+                "color": "żółte",
+                "sizeMan" : [43,44,45,46],
+                "sizeWoman" : [30,31,32,36,37],
+                "sizeChild" : [29,31,32,33,37,38],
+                "price": 510,
+                "newPrice": 400,
+                "childPrice": 260,
+                "childNewPrice": 200,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/newBalance/new-balance-furon-v5-pro-sg-msfpssp5-zolte/new-balance-furon-v5-pro-sg-msfpssp5_1.png" } ,
+                        "file2": { "url":"../images/shoes/newBalance/new-balance-furon-v5-pro-sg-msfpssp5-zolte/new-balance-furon-v5-pro-sg-msfpssp5_2.png" },
+                        "file3": { "url":"../images/shoes/newBalance/new-balance-furon-v5-pro-sg-msfpssp5-zolte/new-balance-furon-v5-pro-sg-msfpssp5_3.png" },
+                        "file4": { "url":"../images/shoes/newBalance/new-balance-furon-v5-pro-sg-msfpssp5-zolte/new-balance-furon-v5-pro-sg-msfpssp5_4.png" }, 
+                        "file5": { "url":"../images/shoes/newBalance/new-balance-furon-v5-pro-sg-msfpssp5-zolte/new-balance-furon-v5-pro-sg-msfpssp5_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "59" },
+            "fields": {
+                "mark": "NewBalance",
+                "model": "Furon", 
+                "title": "New Balance Furon v5 blue",
+                "sex": ["Mężczyźni"],
+                "color": "niebieskie",
+                "sizeMan" : [39,40,41,42,46],
+                "sizeWoman" : [30,31],
+                "sizeChild" : [33,34,35,36,37,38],
+                "price": 1210,
+                "newPrice": 1120,
+                "childPrice": 540,
+                "childNewPrice": 410,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/newBalance/new-balance-furon-v5-pro-sg-niebieski/new-balance-furon-v5-pro-sg_1.png" } ,
+                        "file2": { "url":"../images/shoes/newBalance/new-balance-furon-v5-pro-sg-niebieski/new-balance-furon-v5-pro-sg_2.png" },
+                        "file3": { "url":"../images/shoes/newBalance/new-balance-furon-v5-pro-sg-niebieski/new-balance-furon-v5-pro-sg_3.png" },
+                        "file4": { "url":"../images/shoes/newBalance/new-balance-furon-v5-pro-sg-niebieski/new-balance-furon-v5-pro-sg_4.png" }, 
+                        "file5": { "url":"../images/shoes/newBalance/new-balance-furon-v5-pro-sg-niebieski/new-balance-furon-v5-pro-sg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "60" },
+            "fields": {
+                "mark": "NewBalance",
+                "model": "Furon", 
+                "title": "New Balance Furon v6 black",
+                "sex": ["Mężczyźni"],
+                "color": "czarne",
+                "sizeMan" : [41,42,43,44],
+                "sizeWoman" : [30,31,32,33],
+                "sizeChild" : [29,30,31,33,34,35],
+                "price": 1010,
+                "newPrice": 920,
+                "childPrice": 410,
+                "childNewPrice": 350,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/newBalance/new-balance-furon-v6-pro-fg-czarne/new-balance-furon-v6-pro-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/newBalance/new-balance-furon-v6-pro-fg-czarne/new-balance-furon-v6-pro-fg_2.png" },
+                        "file3": { "url":"../images/shoes/newBalance/new-balance-furon-v6-pro-fg-czarne/new-balance-furon-v6-pro-fg_3.png" },
+                        "file4": { "url":"../images/shoes/newBalance/new-balance-furon-v6-pro-fg-czarne/new-balance-furon-v6-pro-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/newBalance/new-balance-furon-v6-pro-fg-czarne/new-balance-furon-v6-pro-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "61" },
+            "fields": {
+                "mark": "NewBalance",
+                "model": "Furon", 
+                "title": "New Balance Furon v6 red",
+                "sex": ["Mężczyźni"],
+                "color": "czerwone",
+                "sizeMan" : [39,41,42,43,44,46],
+                "sizeWoman" : [30,31,32,33,37],
+                "sizeChild" : [29,30,31,37,38],
+                "price": 1310,
+                "newPrice": 1220,
+                "childPrice": 640,
+                "childNewPrice": 400,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/newBalance/new-balance-furon-v6-pro-sg-msf1sfc6-czerwone/new-balance-furon-v6-pro-sg-msf1sfc6_1.png" } ,
+                        "file2": { "url":"../images/shoes/newBalance/new-balance-furon-v6-pro-sg-msf1sfc6-czerwone/new-balance-furon-v6-pro-sg-msf1sfc6_2.png" },
+                        "file3": { "url":"../images/shoes/newBalance/new-balance-furon-v6-pro-sg-msf1sfc6-czerwone/new-balance-furon-v6-pro-sg-msf1sfc6_3.png" },
+                        "file4": { "url":"../images/shoes/newBalance/new-balance-furon-v6-pro-sg-msf1sfc6-czerwone/new-balance-furon-v6-pro-sg-msf1sfc6_4.png" }, 
+                        "file5": { "url":"../images/shoes/newBalance/new-balance-furon-v6-pro-sg-msf1sfc6-czerwone/new-balance-furon-v6-pro-sg-msf1sfc6_5.png" } 
+                    } 
+                }
+            }
+        },
+         {
+            "sys": { "id": "62" },
+            "fields": {
+                "mark": "NewBalance",
+                "model": "Tekela", 
+                "title": "New Balance Tekela v2 blue",
+                "sex": ["Mężczyźni"],
+                "color": "niebieskie",
+                "sizeMan" : [39,40,42,43,44],
+                "sizeWoman" : [30,31,32,35,36,37],
+                "sizeChild" : [29,30,32,33,36,37,38],
+                "price": 710,
+                "newPrice": 600,
+                "childPrice": 510,
+                "childNewPrice": 390,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/newBalance/new-balance-tekela-v2-pro-sg-mstpsvc2-niebieskie/new-balance-tekela-v2-pro-sg-mstpsvc2_1.png" } ,
+                        "file2": { "url":"../images/shoes/newBalance/new-balance-tekela-v2-pro-sg-mstpsvc2-niebieskie/new-balance-tekela-v2-pro-sg-mstpsvc2_2.png" },
+                        "file3": { "url":"../images/shoes/newBalance/new-balance-tekela-v2-pro-sg-mstpsvc2-niebieskie/new-balance-tekela-v2-pro-sg-mstpsvc2_3.png" },
+                        "file4": { "url":"../images/shoes/newBalance/new-balance-tekela-v2-pro-sg-mstpsvc2-niebieskie/new-balance-tekela-v2-pro-sg-mstpsvc2_4.png" }, 
+                        "file5": { "url":"../images/shoes/newBalance/new-balance-tekela-v2-pro-sg-mstpsvc2-niebieskie/new-balance-tekela-v2-pro-sg-mstpsvc2_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "63" },
+            "fields": {
+                "mark": "NewBalance",
+                "model": "Tekela", 
+                "title": "New Balance Tekela v3 white",
+                "sex": ["Mężczyźni"],
+                "color": "białe",
+                "sizeMan" : [39,40,41,42,46],
+                "sizeWoman" : [30,31,35,36,37],
+                "sizeChild" : [29,30,31,35,36,37,38],
+                "price": 1310,
+                "newPrice": 1220,
+                "childPrice": 640,
+                "childNewPrice": 400,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/newBalance/new-balance-tekela-v3-limited-edition-fg-biale/new-balance-tekela-v3-limited-edition-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/newBalance/new-balance-tekela-v3-limited-edition-fg-biale/new-balance-tekela-v3-limited-edition-fg_2.png" },
+                        "file3": { "url":"../images/shoes/newBalance/new-balance-tekela-v3-limited-edition-fg-biale/new-balance-tekela-v3-limited-edition-fg_3.png" },
+                        "file4": { "url":"../images/shoes/newBalance/new-balance-tekela-v3-limited-edition-fg-biale/new-balance-tekela-v3-limited-edition-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/newBalance/new-balance-tekela-v3-limited-edition-fg-biale/new-balance-tekela-v3-limited-edition-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "64" },
+            "fields": {
+                "mark": "NewBalance",
+                "model": "Tekela", 
+                "title": "New Balance Tekela v3 blue",
+                "sex": ["Mężczyźni"],
+                "color": "niebieskie",
+                "sizeMan" : [39,43,44,45,46],
+                "sizeWoman" : [30,31,32],
+                "sizeChild" : [29,30,31,32,33,37,38],
+                "price": 710,
+                "newPrice": 520,
+                "childPrice": 340,
+                "childNewPrice": 220,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/newBalance/new-balance-tekela-v3-pro-sg-niebieskie/new-balance-tekela-v3-pro-sg_1.png" } ,
+                        "file2": { "url":"../images/shoes/newBalance/new-balance-tekela-v3-pro-sg-niebieskie/new-balance-tekela-v3-pro-sg_2.png" },
+                        "file3": { "url":"../images/shoes/newBalance/new-balance-tekela-v3-pro-sg-niebieskie/new-balance-tekela-v3-pro-sg_3.png" },
+                        "file4": { "url":"../images/shoes/newBalance/new-balance-tekela-v3-pro-sg-niebieskie/new-balance-tekela-v3-pro-sg_4.png" }, 
+                        "file5": { "url":"../images/shoes/newBalance/new-balance-tekela-v3-pro-sg-niebieskie/new-balance-tekela-v3-pro-sg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "65" },
+            "fields": {
+                "mark": "Puma",
+                "model": "Future", 
+                "title": "Puma Future 1.1 blue",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "niebieskie",
+                "sizeMan" : [39,40,46],
+                "sizeWoman" : [30,31,35,36,37],
+                "sizeChild" : [29,30,35,36,37,38],
+                "price": 900,
+                "newPrice": 700,
+                "childPrice": 350,
+                "childNewPrice": 250,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/puma/buty-puma-future-z-1-1-creativity-fg/buty-puma-future-z-1-1-creativity-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/puma/buty-puma-future-z-1-1-creativity-fg/buty-puma-future-z-1-1-creativity-fg_2.png" },
+                        "file3": { "url":"../images/shoes/puma/buty-puma-future-z-1-1-creativity-fg/buty-puma-future-z-1-1-creativity-fg_3.png" },
+                        "file4": { "url":"../images/shoes/puma/buty-puma-future-z-1-1-creativity-fg/buty-puma-future-z-1-1-creativity-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/puma/buty-puma-future-z-1-1-creativity-fg/buty-puma-future-z-1-1-creativity-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "66" },
+            "fields": {
+                "mark": "Puma",
+                "model": "King", 
+                "title": "Puma King platinum white",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "białe",
+                "sizeMan" : [39,40,41,46],
+                "sizeWoman" : [30,31,35,36,37],
+                "sizeChild" : [29,30,34,35,36,38],
+                "price": 700,
+                "newPrice": 610,
+                "childPrice": 350,
+                "childNewPrice": 200,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/puma/buty-puma-king-platinum-lazertouch-fg-ag-biale/buty-puma-king-platinum-lazertouch-fg-ag_1.png" } ,
+                        "file2": { "url":"../images/shoes/puma/buty-puma-king-platinum-lazertouch-fg-ag-biale/buty-puma-king-platinum-lazertouch-fg-ag_2.png" },
+                        "file3": { "url":"../images/shoes/puma/buty-puma-king-platinum-lazertouch-fg-ag-biale/buty-puma-king-platinum-lazertouch-fg-ag_3.png" },
+                        "file4": { "url":"../images/shoes/puma/buty-puma-king-platinum-lazertouch-fg-ag-biale/buty-puma-king-platinum-lazertouch-fg-ag_4.png" }, 
+                        "file5": { "url":"../images/shoes/puma/buty-puma-king-platinum-lazertouch-fg-ag-biale/buty-puma-king-platinum-lazertouch-fg-ag_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "67" },
+            "fields": {
+                "mark": "Puma",
+                "model": "Future", 
+                "title": "Puma Future 5.1 yellow",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "żółte",
+                "sizeMan" : [39,40,41,45,46],
+                "sizeWoman" : [30,31,37],
+                "sizeChild" : [36,37,38],
+                "price": 950,
+                "newPrice": 720,
+                "childPrice": 350,
+                "childNewPrice": 270,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/puma/puma-future-5-1-netfit-fg-ag-zolte/puma-future-5-1-netfit-fg-ag_1.png" } ,
+                        "file2": { "url":"../images/shoes/puma/puma-future-5-1-netfit-fg-ag-zolte/puma-future-5-1-netfit-fg-ag_2.png" },
+                        "file3": { "url":"../images/shoes/puma/puma-future-5-1-netfit-fg-ag-zolte/puma-future-5-1-netfit-fg-ag_3.png" },
+                        "file4": { "url":"../images/shoes/puma/puma-future-5-1-netfit-fg-ag-zolte/puma-future-5-1-netfit-fg-ag_4.png" }, 
+                        "file5": { "url":"../images/shoes/puma/puma-future-5-1-netfit-fg-ag-zolte/puma-future-5-1-netfit-fg-ag_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "68" },
+            "fields": {
+                "mark": "Puma",
+                "model": "Future", 
+                "title": "Puma Future 5.1 black",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czarne",
+               "sizeMan" : [39,40,41,45,46],
+                "sizeWoman" : [30,31,37],
+                "sizeChild" : [36,37,38],
+                "price": 950,
+                "newPrice": 720,
+                "childPrice": 350,
+                "childNewPrice": 270,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/puma/puma-future-5-1-netfit-fg-ag-zolte-czarbe/puma-future-5-1-netfit-fg-ag_1.png" } ,
+                        "file2": { "url":"../images/shoes/puma/puma-future-5-1-netfit-fg-ag-zolte-czarbe/puma-future-5-1-netfit-fg-ag_2.png" },
+                        "file3": { "url":"../images/shoes/puma/puma-future-5-1-netfit-fg-ag-zolte-czarbe/puma-future-5-1-netfit-fg-ag_3.png" },
+                        "file4": { "url":"../images/shoes/puma/puma-future-5-1-netfit-fg-ag-zolte-czarbe/puma-future-5-1-netfit-fg-ag_4.png" }, 
+                        "file5": { "url":"../images/shoes/puma/puma-future-5-1-netfit-fg-ag-zolte-czarbe/puma-future-5-1-netfit-fg-ag_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "69" },
+            "fields": {
+                "mark": "Puma",
+                "model": "Future", 
+                "title": "Puma Future 6.1 black",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czarne",
+                "sizeMan" : [39,41,42,43,45,46],
+                "sizeWoman" : [30,31,32,35,36,37],
+                "sizeChild" : [29,30,32,33,36,37,38],
+                "price": 550,
+                "newPrice": 420,
+                "childPrice": 270,
+                "childNewPrice": 210,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/puma/puma-future-6-1-netfit-sg-czarne/puma-future-6-1-netfit-sg_1.png" } ,
+                        "file2": { "url":"../images/shoes/puma/puma-future-6-1-netfit-sg-czarne/puma-future-6-1-netfit-sg_2.png" },
+                        "file3": { "url":"../images/shoes/puma/puma-future-6-1-netfit-sg-czarne/puma-future-6-1-netfit-sg_3.png" },
+                        "file4": { "url":"../images/shoes/puma/puma-future-6-1-netfit-sg-czarne/puma-future-6-1-netfit-sg_4.png" }, 
+                        "file5": { "url":"../images/shoes/puma/puma-future-6-1-netfit-sg-czarne/puma-future-6-1-netfit-sg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "70" },
+            "fields": {
+                "mark": "Puma",
+                "model": "Future", 
+                "title": "Puma Future 2.1 yellow",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "żółte",
+                "sizeMan" : [39,40,42,43,46],
+                "sizeWoman" : [30,35,36,37],
+                "sizeChild" : [36,37,38],
+                "price": 1150,
+                "newPrice": 1060,
+                "childPrice": 480,
+                "childNewPrice": 370,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/puma/puma-future-z-2-1-fg-ag/puma-future-z-2-1-fg-ag_1.png" } ,
+                        "file2": { "url":"../images/shoes/puma/puma-future-z-2-1-fg-ag/puma-future-z-2-1-fg-ag_2.png" },
+                        "file3": { "url":"../images/shoes/puma/puma-future-z-2-1-fg-ag/puma-future-z-2-1-fg-ag_3.png" },
+                        "file4": { "url":"../images/shoes/puma/puma-future-z-2-1-fg-ag/puma-future-z-2-1-fg-ag_4.png" }, 
+                        "file5": { "url":"../images/shoes/puma/puma-future-z-2-1-fg-ag/puma-future-z-2-1-fg-ag_5.png" } 
+                    } 
+                }
+            }
+        },
+         {
+            "sys": { "id": "71" },
+            "fields": {
+                "mark": "Puma",
+                "model": "King", 
+                "title": "Puma King platinum white",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "białe",
+                "sizeMan" : [39,40,44,45],
+                "sizeWoman" : [30,31,32,33],
+                "sizeChild" : [29,30,31,32,33,38],
+                "price": 750,
+                "newPrice": 660,
+                "childPrice": 280,
+                "childNewPrice": 210,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/puma/puma-king-platinum-fg-ag-biale/puma-king-platinum-fg-ag_1.png" } ,
+                        "file2": { "url":"../images/shoes/puma/puma-king-platinum-fg-ag-biale/puma-king-platinum-fg-ag_2.png" },
+                        "file3": { "url":"../images/shoes/puma/puma-king-platinum-fg-ag-biale/puma-king-platinum-fg-ag_3.png" },
+                        "file4": { "url":"../images/shoes/puma/puma-king-platinum-fg-ag-biale/puma-king-platinum-fg-ag_4.png" }, 
+                        "file5": { "url":"../images/shoes/puma/puma-king-platinum-fg-ag-biale/puma-king-platinum-fg-ag_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "72" },
+            "fields": {
+                "mark": "Puma",
+                "model": "King", 
+                "title": "Puma King platinum yellow",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "żółte",
+                "sizeMan" : [39,40],
+                "sizeWoman" : [30,31,37],
+                "sizeChild" : [36,37,38],
+                "price": 850,
+                "newPrice": 660,
+                "childPrice": 380,
+                "childNewPrice": 300,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/puma/puma-king-platinum-fg-ag-zlote/puma-king-platinum-fg-ag_1.png" } ,
+                        "file2": { "url":"../images/shoes/puma/puma-king-platinum-fg-ag-zlote/puma-king-platinum-fg-ag_2.png" },
+                        "file3": { "url":"../images/shoes/puma/puma-king-platinum-fg-ag-zlote/puma-king-platinum-fg-ag_3.png" },
+                        "file4": { "url":"../images/shoes/puma/puma-king-platinum-fg-ag-zlote/puma-king-platinum-fg-ag_4.png" }, 
+                        "file5": { "url":"../images/shoes/puma/puma-king-platinum-fg-ag-zlote/puma-king-platinum-fg-ag_5.png" } 
+                    } 
+                }
+            }
+        },
+         {
+            "sys": { "id": "73" },
+            "fields": {
+                "mark": "Puma",
+                "model": "One", 
+                "title": "Puma One 1.1 blue",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "niebieskie",
+                "sizeMan" : [39,40,41,42,43,45,46],
+                "sizeWoman" : [30,31,32,33,37],
+                "sizeChild" : [30,31,32,33,37],
+                "price": 550,
+                "newPrice": 460,
+                "childPrice": 280,
+                "childNewPrice": 190,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/puma/puma-one-1-lth-sg-niebieskie/puma-one-1-lth-sg_1.png" } ,
+                        "file2": { "url":"../images/shoes/puma/puma-one-1-lth-sg-niebieskie/puma-one-1-lth-sg_2.png" },
+                        "file3": { "url":"../images/shoes/puma/puma-one-1-lth-sg-niebieskie/puma-one-1-lth-sg_3.png" },
+                        "file4": { "url":"../images/shoes/puma/puma-one-1-lth-sg-niebieskie/puma-one-1-lth-sg_4.png" }, 
+                        "file5": { "url":"../images/shoes/puma/puma-one-1-lth-sg-niebieskie/puma-one-1-lth-sg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "74" },
+            "fields": {
+                "mark": "Puma",
+                "model": "One", 
+                "title": "Puma One 20.1 yellow",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "żółte",
+                "sizeMan" : [39,40,44,45,46],
+                "sizeWoman" : [30,31,36,37],
+                "sizeChild" : [29,30,31],
+                "price": 550,
+                "newPrice": 460,
+                "childPrice": 280,
+                "childNewPrice": 190,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/puma/puma-one-20-1-zolte/puma-one-20-1_1.png" } ,
+                        "file2": { "url":"../images/shoes/puma/puma-one-20-1-zolte/puma-one-20-1_2.png" },
+                        "file3": { "url":"../images/shoes/puma/puma-one-20-1-zolte/puma-one-20-1_3.png" },
+                        "file4": { "url":"../images/shoes/puma/puma-one-20-1-zolte/puma-one-20-1_4.png" }, 
+                        "file5": { "url":"../images/shoes/puma/puma-one-20-1-zolte/puma-one-20-1_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "75" },
+            "fields": {
+                "mark": "Puma",
+                "model": "Ultra", 
+                "title": "Puma Ultra 1.1 black",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czarne",
+                "sizeMan" : [43,44,45,46],
+                "sizeWoman" : [30,36,37],
+                "sizeChild" : [29,30,36,37,38],
+                "price": 850,
+                "newPrice": 660,
+                "childPrice": 380,
+                "childNewPrice": 290,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/puma/puma-ultra-1-1-sg_czarne/puma-ultra-1-1-sg_1.png" } ,
+                        "file2": { "url":"../images/shoes/puma/puma-ultra-1-1-sg_czarne/puma-ultra-1-1-sg_2.png" },
+                        "file3": { "url":"../images/shoes/puma/puma-ultra-1-1-sg_czarne/puma-ultra-1-1-sg_3.png" },
+                        "file4": { "url":"../images/shoes/puma/puma-ultra-1-1-sg_czarne/puma-ultra-1-1-sg_4.png" }, 
+                        "file5": { "url":"../images/shoes/puma/puma-ultra-1-1-sg_czarne/puma-ultra-1-1-sg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "76" },
+            "fields": {
+                "mark": "Puma",
+                "model": "Ultra", 
+                "title": "Puma Ultra 1.1 orange",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "pomarańczowe",
+                "sizeMan" : [39,40,41,46],
+                "sizeWoman" : [30,31,32,35,36,37],
+                "sizeChild" : [29,30,31,36,37,38],
+                "price": 850,
+                "newPrice": 660,
+                "childPrice": 380,
+                "childNewPrice": 290,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/puma/puma-ultra-1-1-sg-pomaranczowe/puma-ultra-1-1-sg_1.png" } ,
+                        "file2": { "url":"../images/shoes/puma/puma-ultra-1-1-sg-pomaranczowe/puma-ultra-1-1-sg_2.png" },
+                        "file3": { "url":"../images/shoes/puma/puma-ultra-1-1-sg-pomaranczowe/puma-ultra-1-1-sg_3.png" },
+                        "file4": { "url":"../images/shoes/puma/puma-ultra-1-1-sg-pomaranczowe/puma-ultra-1-1-sg_4.png" }, 
+                        "file5": { "url":"../images/shoes/puma/puma-ultra-1-1-sg-pomaranczowe/puma-ultra-1-1-sg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "77" },
+            "fields": {
+                "mark": "Puma",
+                "model": "Ultra", 
+                "title": "Puma Ultra 1.2 blue",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "niebieskie",
+                "sizeMan" : [39,40,41,43,44,46],
+                "sizeWoman" : [30,31,37],
+                "sizeChild" : [29,30,31,36,37,38],
+                "price": 950,
+                "newPrice": 760,
+                "childPrice": 480,
+                "childNewPrice": 390,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/puma/puma-ultra-1-2-fg-ag-niebieskie/puma-ultra-1-2-fg-ag_1.png" } ,
+                        "file2": { "url":"../images/shoes/puma/puma-ultra-1-2-fg-ag-niebieskie/puma-ultra-1-2-fg-ag_2.png" },
+                        "file3": { "url":"../images/shoes/puma/puma-ultra-1-2-fg-ag-niebieskie/puma-ultra-1-2-fg-ag_3.png" },
+                        "file4": { "url":"../images/shoes/puma/puma-ultra-1-2-fg-ag-niebieskie/puma-ultra-1-2-fg-ag_4.png" }, 
+                        "file5": { "url":"../images/shoes/puma/puma-ultra-1-2-fg-ag-niebieskie/puma-ultra-1-2-fg-ag_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "78" },
+            "fields": {
+                "mark": "Puma",
+                "model": "Ultra", 
+                "title": "Puma Ultra 1.2 black",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czarne",
+                "sizeMan" : [39,40,41,42,43,46],
+                "sizeWoman" : [30,31,32,33],
+                "sizeChild" : [29,30,31,35,36,37,38],
+                "price": 950,
+                "newPrice": 760,
+                "childPrice": 480,
+                "childNewPrice": 390,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/puma/puma-ultra-1-2-mxsg/puma-ultra-1-2-mxsg_1.png" } ,
+                        "file2": { "url":"../images/shoes/puma/puma-ultra-1-2-mxsg/puma-ultra-1-2-mxsg_2.png" },
+                        "file3": { "url":"../images/shoes/puma/puma-ultra-1-2-mxsg/puma-ultra-1-2-mxsg_3.png" },
+                        "file4": { "url":"../images/shoes/puma/puma-ultra-1-2-mxsg/puma-ultra-1-2-mxsg_4.png" }, 
+                        "file5": { "url":"../images/shoes/puma/puma-ultra-1-2-mxsg/puma-ultra-1-2-mxsg_5.png" } 
+                    } 
+                }
+            }
+        }
+    ]
+}

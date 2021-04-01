@@ -1,0 +1,359 @@
+.container__header{
+    margin: 1rem auto;
+    text-align: center;
+}
+
+.filterSort{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 6vh;
+
+    @media (min-width: 620px) {
+        width: 95%;
+        margin: 0 auto;
+
+    }
+
+     @media (min-width: 700px) {
+        //   height: 6vh;
+        column-gap: 50vw;
+     }
+
+    @media (min-width: 1000px) {
+        position: relative;
+        border: 1px solid black;
+        margin: 1rem auto;
+        height: 5vh;
+        column-gap: 0;
+        grid-template-columns: 4.5fr 1fr;
+        width: 95%;
+    }
+
+    @media (min-width: 1250px) {
+        width: 80%;
+    }
+}
+
+.titleSort__title,
+.filter__title{
+        cursor: pointer;
+        height: 100%;
+        display: flex;
+        width: 100%;
+        height: 100%;
+        justify-content: center;
+        align-items: center;
+}
+
+.filter__arrow,
+.sort__arrow{
+    padding-left: 1rem;
+    font-size: 1.5rem;
+}
+
+.filter {
+    &--active{
+      height: 100%;
+      width: 100%;
+      position: absolute;
+      top: 8vh;
+      left: 0;
+      border-bottom: 1px solid var(--borderColorMenu);
+      background-color: white;
+      z-index: 39;
+    }
+
+    @media (min-width: 1000px) {
+        position: relative;
+        height: calc(5vh - 2px);
+    }
+
+    &__wrapp
+    {
+        display: none;
+        &--active{
+            height: auto;
+            width: 100%;
+            margin-left: 1rem;
+            display: grid;
+            z-index: 39;
+            @media (min-width: 1000px) {
+                display: none;
+            }
+        }
+
+    }
+
+    &__title{
+        &--active{
+            display: none;
+        }
+    }
+
+    @media (min-width: 1000px) {
+        &__title{
+            display: none;
+        }
+    }
+}
+
+.wrapp{
+    position: relative;
+    
+
+    @media (min-width: 550px){
+        margin-left: 2.3rem;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    @media (min-width: 1000px) {
+        margin-left: 0;
+        height: 100%;
+        display: flex;
+        justify-content: space-around;
+        text-align: center;
+    }
+
+    & > div{
+        margin-top: 1rem;
+        @media (min-width: 1000px){
+            position: relative;
+            height: 100%;
+            margin-top: 0;
+            width: 100%;
+        }
+    }
+
+    & div > div {
+        @media (min-width: 1000px) {
+           position: relative;
+        }
+    }
+
+    &>div>div:nth-child(1) {
+         width: 100%;
+        @media (min-width: 1000px) {
+            position: relative;
+            height: 100%;
+        }
+    }
+
+    &>div>div:nth-child(2) {
+
+        @media (min-width: 1000px) {
+            // display: none;
+            & .div__active {
+                display: block;
+                color: red;
+                background-color: white;
+            }
+        }
+    }
+
+    & > div > div > span{
+        display: block;
+        padding: 0.3rem 0;
+        font-size: 1.3rem;
+        color: rgb(175, 173, 173);
+
+        @media (min-width: 1000px){
+            position: relative;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: auto;
+            padding: 0;
+            height: 100%;
+
+            &.span__active{
+                border-left: 1px solid #555555;
+                border-right: 1px solid #555555;
+            }
+
+            &:hover{
+                border-left:  1px solid #555555;
+                border-right: 1px solid #555555;
+            }
+        }
+    }
+
+    & > div > div > form {
+        padding-left: 0.5rem;
+
+        @media (min-width: 1000px) {
+            display: none;
+        }
+
+        &.form__active{
+            @media (min-width: 1000px) {
+                display: block;
+                background-color: white;
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 200%;
+                height: auto;
+                z-index: 2;
+                text-align: left;
+                border: 1px solid black;
+                
+            }
+        }
+    }
+
+    &>div>div>form>input[type='checkbox'] {
+        position: relative;
+        cursor: pointer;
+        margin: 0.4rem 0;
+        width: 16px;
+        height: 16px;
+          @media (min-width: 1000px) {
+            justify-content: flex-left;
+          }
+        &::before{
+             content: "";
+             display: block;
+             position: absolute;
+             width: 16px;
+             height: 16px;
+             top: 0;
+             left: 0;
+             border: 2px solid #555555;
+             border-radius: 3px;
+             background-color: rgb(235, 231, 231);
+        }
+
+        &:checked::after {
+            content: "";
+            display: block;
+            width: 5px;
+            height: 10px;
+            border: solid black;
+            border-width: 0 2px 2px 0;
+            transform: rotate(45deg);
+            position: absolute;
+            top: 2px;
+            left: 6px;
+        }
+
+    }
+
+    &>div>div>form>label {
+        padding-left: 0.4rem;
+    }
+
+    &__close{
+
+        display: none;
+        cursor: pointer;
+        &--active{
+            display: block;
+            position: absolute;
+            top: 1vh;
+            right: 2vh;
+            font-weight: 700;
+            font-size: 1.5rem;
+            color: rgb(175, 173, 173);
+            z-index: 40;
+        }
+
+        @media (min-width: 1000px){
+            display: none;
+        }
+    }
+}
+
+.formColor {
+    &>label{
+        display: inline-flex;
+        margin: 0;
+
+        &[for='white']>div {
+            background-color: white;
+        }
+
+        &[for='black']>div {
+            background-color: black;
+        }
+
+        &[for='red']>div {
+            background-color: red;
+        }
+
+         &[for='violet']>div {
+             background-color: violet;
+         }
+
+        &[for='blue']>div {
+            background-color: blue;
+        }
+
+        &[for='orange']>div {
+             background-color: orange;
+        }
+
+        &[for='pink']>div {
+              background-color: pink;
+        }
+        
+        &[for='gray']>div {
+            background-color: gray;
+        }
+
+        &[for='green']>div {
+            background-color: green;
+        }
+
+        &[for='yellow']>div {
+            background-color: yellow;
+        }
+    }
+    & > label > div{
+        margin-left: 1rem;
+        border-radius: 5px;
+        height: 1rem;
+        width: 1rem;
+        border: 1px solid #555555;
+    }
+}
+
+.sort{
+    position: relative;
+    z-index: 10;
+    &__options {
+        display: none;
+        position: absolute;
+        width: 100%;
+        top: 6vh;
+        left: 1.5px;
+        z-index: 30;
+        border: 1px solid black;
+        &--active{
+            display: block;
+        }
+
+        @media(min-width: 1000px){
+            top: calc(5vh - 2px);
+        }
+
+        &>form{
+            width: 100%;
+        }
+
+        &>form>button {
+            display: block;
+            width: 100%;
+            height: 2rem;
+            border: none;
+            background-color: white;
+            &:hover {
+                background-color: #cfcece;
+            }
+
+            & .button--active{
+                background-color: #cfcece;
+            }
+        }
+    }
+}

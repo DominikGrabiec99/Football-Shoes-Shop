@@ -1,0 +1,316 @@
+{
+    "items": [
+         {
+            "sys": { "id": "30" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Tiempo", 
+                "title": "Nike Tiempo legend 8 black",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czarne",
+                "sizeMan" : [39,44,45,46],
+                "sizeWoman" : [33,34,38,39],
+                "sizeChild" : [29,30,34,35,36,37,38],
+                "price": 630,
+                "newPrice": 550,
+                "childPrice": 300,
+                "childNewPrice": 280.50,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/buty-nike-legend-8-elite-fg-at5293-060-czarne-tiempo/buty-nike-legend-8-elite-fg-at5293-060_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/buty-nike-legend-8-elite-fg-at5293-060-czarne-tiempo/buty-nike-legend-8-elite-fg-at5293-060_2.png" },
+                        "file3": { "url":"../images/shoes/nike/buty-nike-legend-8-elite-fg-at5293-060-czarne-tiempo/buty-nike-legend-8-elite-fg-at5293-060_3.png" },
+                        "file4": { "url":"../images/shoes/nike/buty-nike-legend-8-elite-fg-at5293-060-czarne-tiempo/buty-nike-legend-8-elite-fg-at5293-060_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/buty-nike-legend-8-elite-fg-at5293-060-czarne-tiempo/buty-nike-legend-8-elite-fg-at5293-060_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "2" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Copa", 
+                "title": "Copa 20.1 blue",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "niebieskie",
+                "sizeMan" : [39,40,41,42,43,46],
+                "sizeWoman" : [33,36,37,38,39],
+                "sizeChild" : [29,30,31,35,36,37],
+                "price": 520.12,
+                "newPrice": 450.99,
+                "childPrice": 300,
+                "childNewPrice": 280.50,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-copa-20-1-sg-niebieskie/adidas-copa-20-1-sg_1.png" } ,
+                        "file2": { "url": "../images/shoes/adidas/adidas-copa-20-1-sg-niebieskie/adidas-copa-20-1-sg_2.png" },
+                        "file3": { "url": "../images/shoes/adidas/adidas-copa-20-1-sg-niebieskie/adidas-copa-20-1-sg_3.png" },
+                        "file4": { "url": "../images/shoes/adidas/adidas-copa-20-1-sg-niebieskie/adidas-copa-20-1-sg_4.png" }, 
+                        "file5": { "url": "../images/shoes/adidas/adidas-copa-20-1-sg-niebieskie/adidas-copa-20-1-sg_5.png" } 
+                    } 
+                }
+            }
+        },
+         {
+            "sys": { "id": "37" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Mercurial", 
+                "title": "Nike Mercurial superfly 8 elite white",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "białe",
+                "sizeMan" : [39,40,44,45,46],
+                "sizeWoman" : [33,34,38,39],
+                "sizeChild" : [29,30,36,37,38],
+                "price": 1059,
+                "newPrice": 989,
+                "childPrice": 500,
+                "childNewPrice": 459,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-mercurial-superfly-8-elite-mds-fg/nike-mercurial-superfly-8-elite-mds-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-mercurial-superfly-8-elite-mds-fg/nike-mercurial-superfly-8-elite-mds-fg_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-mercurial-superfly-8-elite-mds-fg/nike-mercurial-superfly-8-elite-mds-fg_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-mercurial-superfly-8-elite-mds-fg/nike-mercurial-superfly-8-elite-mds-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-mercurial-superfly-8-elite-mds-fg/nike-mercurial-superfly-8-elite-mds-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+         {
+            "sys": { "id": "4" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Copa", 
+                "title": "Copa sense 3 II",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "czarne",
+                "sizeMan" : [39,40,43,44,45,46],
+                "sizeWoman" : [33,34,35,38,39],
+                "sizeChild" : [29,30,31],
+                "price": 820.12,
+                "newPrice": 780.99,
+                "childPrice": 300,
+                "childNewPrice": 280.50,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-copa-sense-3-ll-fg/adidas-copa-sense-3-ll-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-copa-sense-3-ll-fg/adidas-copa-sense-3-ll-fg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-copa-sense-3-ll-fg/adidas-copa-sense-3-ll-fg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-copa-sense-3-ll-fg/adidas-copa-sense-3-ll-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-copa-sense-3-ll-fg/adidas-copa-sense-3-ll-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "43" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Phantom", 
+                "title": "Nike Phantom VSN2 green",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "zielone",
+                "sizeMan" : [39,40,46],
+                "sizeWoman" : [33,34],
+                "sizeChild" : [36,37,38],
+                "price": 720,
+                "newPrice": 600,
+                "childPrice": 300,
+                "childNewPrice": 250,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-phantom-vsn-2-elite-fg_zielone/nike-phantom-vsn-2-elite-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-phantom-vsn-2-elite-fg_zielone/nike-phantom-vsn-2-elite-fg_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-phantom-vsn-2-elite-fg_zielone/nike-phantom-vsn-2-elite-fg_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-phantom-vsn-2-elite-fg_zielone/nike-phantom-vsn-2-elite-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-phantom-vsn-2-elite-fg_zielone/nike-phantom-vsn-2-elite-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+         {
+            "sys": { "id": "6" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Copa", 
+                "title": "Copa sense 4 gray",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "szare",
+                "sizeMan" : [42,43,44,45,46],
+                "sizeWoman" : [33,34,37,38,39],
+                "sizeChild" : [29,30,31,32,33,34,35,38],
+                "price": 720,
+                "newPrice": 650.99,
+                "childPrice": 300,
+                "childNewPrice": 280.50,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-copa-sense-fg-szare/adidas-copa-sense-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-copa-sense-fg-szare/adidas-copa-sense-fg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-copa-sense-fg-szare/adidas-copa-sense-fg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-copa-sense-fg-szare/adidas-copa-sense-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-copa-sense-fg-szare/adidas-copa-sense-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+         {
+            "sys": { "id": "7" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Nemeziz", 
+                "title": "Nemeziz 1 white",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "białe",
+                "sizeMan" : [39,41,42,43,44,45,46],
+                "sizeWoman" : [33,36,37,38,39],
+                "sizeChild" : [29,33,34,35,36,37,38],
+                "price": 1020,
+                "newPrice": 950.99,
+                "childPrice": 500,
+                "childNewPrice": 380.50,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-nemeziz-1-fg-biale/adidas-nemeziz-1-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-nemeziz-1-fg-biale/adidas-nemeziz-1-fg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-nemeziz-1-fg-biale/adidas-nemeziz-1-fg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-nemeziz-1-fg-biale/adidas-nemeziz-1-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-nemeziz-1-fg-biale/adidas-nemeziz-1-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "37" },
+            "fields": {
+                "mark": "Nike",
+                "model": "Mercurial", 
+                "title": "Nike Mercurial superfly 8 elite white",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "białe",
+                "sizeMan" : [39,40,44,45,46],
+                "sizeWoman" : [33,34,38,39],
+                "sizeChild" : [29,30,36,37,38],
+                "price": 1059,
+                "newPrice": 989,
+                "childPrice": 500,
+                "childNewPrice": 459,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/nike/nike-mercurial-superfly-8-elite-mds-fg/nike-mercurial-superfly-8-elite-mds-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/nike/nike-mercurial-superfly-8-elite-mds-fg/nike-mercurial-superfly-8-elite-mds-fg_2.png" },
+                        "file3": { "url":"../images/shoes/nike/nike-mercurial-superfly-8-elite-mds-fg/nike-mercurial-superfly-8-elite-mds-fg_3.png" },
+                        "file4": { "url":"../images/shoes/nike/nike-mercurial-superfly-8-elite-mds-fg/nike-mercurial-superfly-8-elite-mds-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/nike/nike-mercurial-superfly-8-elite-mds-fg/nike-mercurial-superfly-8-elite-mds-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "57" },
+            "fields": {
+                "mark": "NewBalance",
+                "model": "Furon", 
+                "title": "New Balance Furon v5 blue",
+                "sex": ["Mężczyźni"],
+                "color": "niebieskie",
+                "sizeMan" : [39,45,46],
+                "sizeWoman" : [33,34,35,36,37],
+                "sizeChild" : [32,33],
+                "price": 810,
+                "newPrice": 720,
+                "childPrice": 400,
+                "childNewPrice": 310,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/newBalance/new-balance-furon-v5-liteshift-fg-niebieskie/new-balance-furon-v5-liteshift-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/newBalance/new-balance-furon-v5-liteshift-fg-niebieskie/new-balance-furon-v5-liteshift-fg_2.png" },
+                        "file3": { "url":"../images/shoes/newBalance/new-balance-furon-v5-liteshift-fg-niebieskie/new-balance-furon-v5-liteshift-fg_3.png" },
+                        "file4": { "url":"../images/shoes/newBalance/new-balance-furon-v5-liteshift-fg-niebieskie/new-balance-furon-v5-liteshift-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/newBalance/new-balance-furon-v5-liteshift-fg-niebieskie/new-balance-furon-v5-liteshift-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+        {
+            "sys": { "id": "10" },
+            "fields": {
+                "mark": "Adidas",
+                "model": "Nemeziz", 
+                "title": "Nemeziz 19.3 white",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "białe",
+                "sizeMan" : [39,40,41,42,43,46],
+                "sizeWoman" : [35,36,37,38,39],
+                "sizeChild" : [29,30,33,34,35,36,37,38],
+                "price": 620,
+                "newPrice": 450.99,
+                "childPrice": 280,
+                "childNewPrice": 230.50,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/adidas/adidas-nemeziz-19-3-fg-biale/adidas-nemeziz-19-3-fg_1.png" } ,
+                        "file2": { "url":"../images/shoes/adidas/adidas-nemeziz-19-3-fg-biale/adidas-nemeziz-19-3-fg_2.png" },
+                        "file3": { "url":"../images/shoes/adidas/adidas-nemeziz-19-3-fg-biale/adidas-nemeziz-19-3-fg_3.png" },
+                        "file4": { "url":"../images/shoes/adidas/adidas-nemeziz-19-3-fg-biale/adidas-nemeziz-19-3-fg_4.png" }, 
+                        "file5": { "url":"../images/shoes/adidas/adidas-nemeziz-19-3-fg-biale/adidas-nemeziz-19-3-fg_5.png" } 
+                    } 
+                }
+            }
+        },
+         {
+            "sys": { "id": "70" },
+            "fields": {
+                "mark": "Puma",
+                "model": "Future", 
+                "title": "Puma Future 2.1 yellow",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "żółte",
+                "sizeMan" : [39,40,42,43,46],
+                "sizeWoman" : [30,35,36,37],
+                "sizeChild" : [36,37,38],
+                "price": 1150,
+                "newPrice": 1060,
+                "childPrice": 480,
+                "childNewPrice": 370,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/puma/puma-future-z-2-1-fg-ag/puma-future-z-2-1-fg-ag_1.png" } ,
+                        "file2": { "url":"../images/shoes/puma/puma-future-z-2-1-fg-ag/puma-future-z-2-1-fg-ag_2.png" },
+                        "file3": { "url":"../images/shoes/puma/puma-future-z-2-1-fg-ag/puma-future-z-2-1-fg-ag_3.png" },
+                        "file4": { "url":"../images/shoes/puma/puma-future-z-2-1-fg-ag/puma-future-z-2-1-fg-ag_4.png" }, 
+                        "file5": { "url":"../images/shoes/puma/puma-future-z-2-1-fg-ag/puma-future-z-2-1-fg-ag_5.png" } 
+                    } 
+                }
+            }
+        },
+         {
+            "sys": { "id": "76" },
+            "fields": {
+                "mark": "Puma",
+                "model": "Ultra", 
+                "title": "Puma Ultra 1.1 orange",
+                "sex": ["Mężczyźni", "Kobiety", "Dzieci"],
+                "color": "pomarańczowe",
+                "sizeMan" : [39,40,41,46],
+                "sizeWoman" : [30,31,32,35,36,37],
+                "sizeChild" : [29,30,31,36,37,38],
+                "price": 850,
+                "newPrice": 660,
+                "childPrice": 380,
+                "childNewPrice": 290,
+                "image": { 
+                    "fields": {  
+                        "file1": { "url":"../images/shoes/puma/puma-ultra-1-1-sg-pomaranczowe/puma-ultra-1-1-sg_1.png" } ,
+                        "file2": { "url":"../images/shoes/puma/puma-ultra-1-1-sg-pomaranczowe/puma-ultra-1-1-sg_2.png" },
+                        "file3": { "url":"../images/shoes/puma/puma-ultra-1-1-sg-pomaranczowe/puma-ultra-1-1-sg_3.png" },
+                        "file4": { "url":"../images/shoes/puma/puma-ultra-1-1-sg-pomaranczowe/puma-ultra-1-1-sg_4.png" }, 
+                        "file5": { "url":"../images/shoes/puma/puma-ultra-1-1-sg-pomaranczowe/puma-ultra-1-1-sg_5.png" } 
+                    } 
+                }
+            }
+        }
+    ]
+}

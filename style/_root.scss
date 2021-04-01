@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Domine',
+    serif;
+}
+
+:root{
+    //Color
+    --containerColorGradient: linear-gradient(200deg, rgba(245, 247, 243, 1) 0%, rgba(242, 239, 233, 1) 25%, rgba(242, 239, 233, 1) 45%, rgba(237, 228, 222, 1) 45%, rgba(237, 228, 222, 1) 70%, rgba(33, 222, 102, 1) 70%, rgba(33, 222, 102, 1) 80%, rgba(30, 200, 92, 1) 80%, rgba(30, 200, 92, 1) 90%);
+    --borderColorMenu: rgb(224, 222, 222);
+    
+
+    //Margin
+    --marginSectionTopMobile: 1rem;
+    --marginSectionTopPC: 1.5rem;
+
+    //Size
+
+    //Width
+    --widthSectionAll : 90%;
+}

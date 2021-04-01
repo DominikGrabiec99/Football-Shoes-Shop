@@ -1,0 +1,292 @@
+.container {
+    background:white;
+    // overflow: auto;
+}
+
+.shoes{
+    margin: 0 auto;
+    margin-top: 1rem;
+    width: 95%;
+    display: grid;
+    grid-template-areas: 
+    'images'
+    'mainInfo'
+    'info'
+    ;
+    grid-template-rows: 1fr;
+    @media (min-width: 800px){
+        grid-template-areas: 
+        'images mainInfo'
+        'info info'
+        ;
+        grid-template-columns: 1fr  1fr;
+        grid-template-rows: 1fr auto;
+        width: 90%;
+    }
+    @media (min-width: 1000px) {
+        width: 90%;
+    }
+
+    @media (min-width: 1200px) {
+        width: 75%;
+    }
+}
+
+.containerImages{
+    grid-area: images;
+    width: 100%;
+    @media (min-width: 1200px) {
+        display: flex;
+    }
+
+    &__imagesList {
+        display: none;
+
+        @media (min-width: 1200px) {
+            flex-basis: 20%;
+            display: flex;
+            flex-direction: column;
+            & > img{
+                margin: 0 auto;
+                max-width: 60%;
+                margin-bottom: 0.4rem;
+
+                position: relative;
+                cursor: pointer;
+                border-radius: 3px;
+                &:nth-child(1){
+                    border-bottom: 4px solid rgb(66, 170, 66);
+                }
+            }
+        }
+    }
+
+    &__wrapper{
+        position: relative;
+        overflow: hidden;
+        width: 100%;
+
+        @media (min-width: 1200px) {
+            width: 80%;
+        }
+    }
+
+    &__allImages{
+        display: flex;
+        width: 100%;
+        background-color: #fafafa;
+
+        @media (min-width: 800px) {
+            min-height: 360px;
+        }
+        & > img{
+
+            width: 100%;
+            min-width: 100%;
+        }
+    }
+
+    &__arrow{
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 1rem;
+        color: black;
+        text-shadow: 0px 0px 2px white;
+         @media (min-width: 700px) {
+            font-size: 1.5rem;
+         }
+        &--left{
+            left: 0.4rem;
+        }
+        &--right {
+            right: 0.4rem;
+        }
+    }
+    
+    &__dots{
+        position: absolute;
+        bottom: 1rem;
+        width: 50%;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+        justify-content: space-around;
+
+        @media (min-width: 1200px){
+            display: none;
+        }
+        & > .dot{
+            background-color: black;
+            border-radius: 50%;
+            width: 0.5rem;
+            height: 0.5rem;
+        }
+    }
+    
+}
+
+
+.mainInformation{
+    grid-area: mainInfo;
+
+    margin-top: 1rem;
+
+    @media(min-width: 800px){
+        margin-top: 0;
+        margin-left: 3rem;
+    }
+
+    & .title__span {
+        display: block;
+        width: 100%;
+        font-weight: 700;
+        font-family: 'Roboto',
+        sans-serif;
+        font-size: 1.4rem;
+        margin-bottom: 1rem;
+        text-transform: uppercase;
+
+        @media(min-width: 800px) {
+            text-align: center;
+        }
+    }
+
+    &__sex{
+        display: flex;
+        margin-bottom: 1rem;
+
+        @media(min-width: 800px) {
+            text-align: center;
+            margin: 0 auto 1rem;
+            justify-content: center;
+        }
+
+        & > input{
+            display: block;
+            margin-right: 0.3rem;
+            padding: 0.5rem;
+            font-size: 1.1rem;
+            background-color: white;
+            border: 1px solid #e6e6e6;
+            border-radius: 2px;
+            cursor: pointer;
+
+            &.input__active {
+                background-color: rgb(32, 126, 32);
+                color: white;
+            }
+        }
+    }
+
+    &__price{
+        display: flex;
+        margin-bottom: 1rem ;
+
+        @media(min-width: 800px) {
+            text-align: center;
+            margin: 0 auto 1rem;
+            justify-content: center;
+            font-weight: bold;
+        }
+
+        & .price__div{
+            margin-right: 1rem;
+            font-size: 1.3rem;
+            
+        }
+        & .price__div--old{
+            color: #929191;
+            text-decoration: line-through;
+        }
+    }
+
+    &__size{
+        & p{
+            margin-bottom: 0.5rem;
+            @media(min-width: 800px) {
+                text-align: center;
+            }
+        }
+
+        & .size__sizeBox{
+            display: flex;
+            flex-wrap: wrap;
+            @media(min-width: 800px) {
+                text-align: center;
+                margin: 0 auto 1rem;
+                justify-content: center;
+            }
+
+            & > input{
+                padding: 0.5rem 0;
+                border-radius: 0;
+                border: 1px solid #e6e6e6;
+                background-color: white;
+                width: 5rem;
+                text-align: center;
+
+                &.input__active {
+                    background-color: rgb(32, 126, 32);
+                    color: white;
+                }
+            }
+        }
+    }
+
+    &__rest{
+        margin-top: 1.3rem;
+        width: 100%;
+        & > .rest__btn{
+            cursor: pointer;
+            display: block;
+            background-color: rgb(32, 126, 32);
+            color: white;
+            text-align:center ;
+            font-size: 1.3rem;
+            height: 3rem;
+            width: 15rem;
+            margin: 0 auto;
+            border-radius: 2px;
+            border: none;
+            margin-bottom: 1rem;
+        }
+
+        & > .rest__info{
+
+            & > p{
+                text-decoration: underline;
+                font-size: 0.9rem;
+                margin-bottom: 0.4rem;
+                cursor: pointer;
+                @media (min-width: 800px) {
+                    text-align: center;
+                }
+
+                & > i{
+                    margin-right: 0.3rem;
+                }
+            }
+        }
+    }
+}
+
+.informationProd {
+    grid-area: info;
+    margin: 1.5rem 0 ;
+    padding: 1rem 0 ;
+    border-top: 1px solid rgb(224, 222, 222);
+    border-bottom: 1px solid rgb(224, 222, 222);
+        &__text{
+            & > h2 {
+                letter-spacing: 1px;
+                margin-bottom: 0.3rem;
+            }
+
+             & > p {
+                 text-align: justify;
+                 margin-bottom: 1rem;
+             }
+        }
+    
+}

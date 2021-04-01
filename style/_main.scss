@@ -1,0 +1,166 @@
+.container{
+    min-height: 100vh;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    background: var(--containerColorGradient);
+}
+
+.basketOpen {
+    transform: translate(100%);
+    min-height: 100%;
+    // height: fit-content;
+    position: absolute;
+    top: 8vh;
+    right: 0;
+    width: 100%;
+    background-color: white;
+    z-index: 100;
+    transition: all 0.3s ease-in;
+
+    &--active {
+        transform: translate(0);
+    }
+
+    @media (min-width: 750px) {
+        width: 45%;
+        top: 0vh;
+        height: 100vh;
+        position:fixed;
+    }
+
+    @media (min-width: 1000px) {
+        width: 35%;
+    }
+
+    @media (min-width: 1200px) {
+        width: 30%;
+    }
+
+    @media (min-width: 1500px) {
+        width: 25%;
+    }
+
+    &__wrapp{
+        width: 100%;
+        max-height: 70%;
+        position: relative;
+        overflow-y: auto;
+    }
+
+    &__close{
+        font-size: 2rem;
+        padding-right: 1rem;
+        padding-top: 1rem;
+        text-align: right;
+        color: rgb(204, 204, 204);
+        cursor: pointer;
+    }
+
+    &__title{
+        width: 100%;
+
+        & > p{
+            text-align: center;
+            font-size: 1.1rem;
+            font-weight: 700;
+            padding: 0.3rem 0;
+        }
+    }
+
+    &__item{
+        max-height: 30vh;
+        display: flex;
+        width: 100%;
+        padding-bottom: 2px;
+        border-bottom: 1px solid rgb(230, 226, 226);
+        margin-top: 0.2rem;
+        text-decoration: none;
+        overflow:visible;
+
+        @media (min-height: 670px) {
+            max-height: 17vh;
+        }
+
+        @media (min-height: 800px) {
+            max-height: 15vh;
+        }       
+
+        & .item__close{
+            flex-basis: 10%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            & > div{
+                width: 30px;
+                height: 2px;
+                background-color: black;
+            }
+
+            & > .line1{
+                transform: translate(50%, -50%) rotate(45deg);
+            }
+            &>.line2 {
+                transform: translate(-50%, -50%) rotate(-45deg);
+            }
+        }
+
+        & .item__link {
+             display: flex;
+             width: 90%;
+             // height: 9rem;
+             margin-top: 0.2rem;
+             text-decoration: none;
+        }
+
+        & .item__image{
+            background-color: rgb(250, 250, 250);
+            height: 100%;
+            max-width: 30%;
+            text-decoration: none;
+        }
+
+        & .item__information{
+            margin-left: 1rem;
+            display: flex;
+            flex-direction: column;
+
+            &>span {
+                 margin: 0.2rem 0;
+                 text-align: left;
+                 color: black;
+            }
+
+            & > .item__mark {
+                font-size: 0.8rem;
+                color: rgb(170, 169, 169);
+
+            }
+
+            &>.item__title {
+                font-weight: bold;
+
+            }
+        }
+    }
+
+    &__option{
+        & > a{
+            display: none;
+            width: 50%;
+            text-decoration: none;
+            color: white;
+            margin: 0 auto;
+            margin-top: 3vh;
+            padding: 0.7rem 0;
+            text-align: center;
+            background-color: rgb(32, 126, 32);
+
+            &.basketOpen__option--active{
+                display: block;
+            }
+        }
+
+    }
+}
