@@ -18,8 +18,6 @@ let sizeButtons = '';
 
 //basket
 const btnToBasket = document.querySelector('.rest__btn');
-// const basketAccount = document.querySelectorAll('.basket__value');
-// const basketOpenOption = document.querySelector('.basketOpen__option a');
 
 let table_ProductsInBasket = [];
 

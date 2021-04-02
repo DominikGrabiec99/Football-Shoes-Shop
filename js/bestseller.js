@@ -163,5 +163,3 @@ arrowRightBestseller.addEventListener('click', moveOneRight)
 
 bestsellerBox.addEventListener('transitionend' ,transitionBox)
 window.addEventListener('resize', resizeWindow)
-
-

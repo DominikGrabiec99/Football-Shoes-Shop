@@ -42,7 +42,6 @@
             right: 50%;
             transform: translateX(50%);
             width: 453px;
-            // height: 227px;
             display: flex;
         }
             
@@ -71,7 +70,6 @@
             background-color: red;
             text-align: center;
             line-height: 2rem;
-            // width: 4rem;
             margin: 0 auto;
             border-radius: 10px;
             font-size: 1.5rem;
@@ -120,20 +118,6 @@
              }
         }
     }
-
-    // &__traget{        
-    //     position: relative;
-    //     top: 100px;
-    //     left: 0;
-    //     height: 7rem;
-    //     width: 7rem;
-    //     z-index: 100;
-    //     animation: target 7s infinite ease-in-out;
-    //      &>img{
-    //          height: 100%;
-    //          opacity: 0.5;
-    //      }
-    // }
 }
 
 .time{

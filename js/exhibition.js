@@ -92,20 +92,3 @@ if(window.PointerEvent){
 }
 arrowLeft.addEventListener('click', moveLeft)
 arrowRight.addEventListener('click', moveRight)
-// else{
-//         exhibition.addEventListener('touchdown',gestureStart);
-
-//         exhibition.addEventListener('touchmove', gestureMove);
-
-//         exhibition.addEventListener('touchup', gestureEnd);
-
-//         exhibition.addEventListener('mousedown',gestureStart);
-
-//         exhibition.addEventListener('mousemove', gestureMove);
-
-//         exhibition.addEventListener('mouseup', gestureEnd);
-// }
-
-
-
-
