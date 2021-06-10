@@ -1,6 +1,6 @@
 const counter = document.querySelector('.time__counter');
 const buttonCheck = document.querySelector('.price__check');
-const dateEnd = new Date('2021-05-22');
+const dateEnd = new Date('2021-07-22');
 let seconds = 0;
 let minutes = 0;
 let hours = 0;
